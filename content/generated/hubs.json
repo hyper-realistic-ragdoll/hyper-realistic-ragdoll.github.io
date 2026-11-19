@@ -1,0 +1,70 @@
+[
+  {
+    "enabled": true,
+    "slug": "guides",
+    "pageType": "hub",
+    "navLabel": "Guides",
+    "title": "Hyper Realistic Ragdoll Guides",
+    "description": "Every Hyper Realistic Ragdoll guide on this site in one place: Hyper Realistic Ragdoll Roblox Banned, Hyper Realistic Ragdoll Beginner Guide, Hyper Realistic…",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Index",
+      "heading": "Hyper Realistic Ragdoll Guides",
+      "lead": "All 8 Hyper Realistic Ragdoll guides pages, grouped in one list. Each link opens a dedicated page."
+    },
+    "sections": [
+      {
+        "id": "all-pages",
+        "heading": "All Hyper Realistic Ragdoll Guides",
+        "intro": "Pick a topic below. New Hyper Realistic Ragdoll pages in this section are added here as soon as they are published.",
+        "links": [
+          {
+            "label": "Hyper Realistic Ragdoll Roblox Banned",
+            "slug": "banned",
+            "description": "Check Hyper Realistic Ragdoll's Roblox access status, what removal or review messages mean, possible explanations, player impact, and how to verify changes."
+          },
+          {
+            "label": "Hyper Realistic Ragdoll Beginner Guide",
+            "slug": "beginner-guide",
+            "description": "Start Hyper Realistic Ragdoll with an overview of its sandbox gameplay, controls to verify, physics interactions, tools, beginner steps, and progression limits."
+          },
+          {
+            "label": "Hyper Realistic Ragdoll Body Scan",
+            "slug": "body-scan",
+            "description": "Learn what Body Scan is documented to show, how to check its controls in-game, how to interpret observations, and which injury details remain unverified."
+          },
+          {
+            "label": "Hyper Realistic Ragdoll Controls",
+            "slug": "controls",
+            "description": "Find a device-aware Hyper Realistic Ragdoll controls guide covering verified PC inputs, scan and revive actions, mobile play, settings, and common input issues."
+          },
+          {
+            "label": "Hyper Realistic Ragdoll Maps",
+            "slug": "maps",
+            "description": "Explore documented Hyper Realistic Ragdoll areas, hazards, animals, vehicles, interactive landmarks, and sandbox routes without inventing map coordinates."
+          },
+          {
+            "label": "Hyper Realistic Ragdoll Assault Rifle",
+            "slug": "assault-rifle",
+            "description": "Check what is documented about the Hyper Realistic Ragdoll assault rifle, including its category, reported unlock information, use guidance. Updated for Roblox."
+          },
+          {
+            "label": "Hyper Realistic Ragdoll Bat",
+            "slug": "bat",
+            "description": "Learn what is documented about the Hyper Realistic Ragdoll bat, how to check its unlock requirement, how to use it, and which claims still need verification."
+          },
+          {
+            "label": "Hyper Realistic Ragdoll Boiling Water",
+            "slug": "boiling-water",
+            "description": "Review documented information about Boiling Water in Hyper Realistic Ragdoll, including how to check its unlock, a practical walkthrough, and evidence limits."
+          }
+        ]
+      }
+    ],
+    "faq": [],
+    "screenshots": [],
+    "relatedSlugs": [],
+    "lastReviewed": "2026-11-19"
+  }
+]

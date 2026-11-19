@@ -1,0 +1,255 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Hyper Realistic Ragdoll: 2026 Official Game Guide (Roblox)",
+  "description": "Find a clear starting point for Hyper Realistic Ragdoll on Roblox, with verified game details, access checks, beginner guidance, and links to focused guides.",
+  "navVisible": true,
+  "hero": {
+    "eyebrow": "Hyper Realistic Ragdoll Wiki & Guide",
+    "heading": "Hyper Realistic Ragdoll: Roblox Game Guide",
+    "lead": "Hyper Realistic Ragdoll is a Roblox physics sandbox where punches, shots, blasts, and environmental hazards change how dummies move. The official Roblox entry identifies the experience by Emo Playworks and provides the verified starting point for joining. Players can test body-part reactions, grab and throw dummies, use tools, trigger destruction, and explore vehicles and creatures. This guide explains the game’s main systems, how to verify the correct Roblox experience, what beginners can try first, and where focused guides cover weapons, controls, Body Scan, vehicles, and updates.",
+    "supportingText": "",
+    "primaryLink": {
+      "label": "Open Weapons",
+      "slug": "weapons"
+    },
+    "secondaryLink": {
+      "label": "Open official game page",
+      "url": "https://www.roblox.com/games/101277003916102"
+    }
+  },
+  "sections": [
+    {
+      "id": "use-the-official-roblox-listing-to-find-the-correct-experience",
+      "heading": "Use the Official Roblox Listing to Find the Correct Experience",
+      "intro": "The supplied official Roblox listing identifies Hyper Realistic Ragdoll as an experience by Emo Playworks. Use the experience title and creator name together to distinguish this listing from similarly named results. Open the Roblox listing and confirm both details before joining; a matching title alone does not establish that a result is the same experience.",
+      "paragraphs": [
+        "The listing is the verified starting point for the game’s identity. This section does not establish whether the experience is available to every player or explain any access problem, so check the live Roblox page for its current join option rather than relying on unconfirmed claims about bans or availability. The listing also does not provide a confirmed update schedule here."
+      ],
+      "table": {
+        "caption": "Hyper Realistic Ragdoll at a Glance",
+        "columns": [
+          "Topic",
+          "What you'll find"
+        ],
+        "rows": [
+          [
+            "Use the Official Roblox Listing to Find the Correct Experience",
+            "The supplied official Roblox listing identifies Hyper Realistic Ragdoll as an experience by Emo Playworks."
+          ],
+          [
+            "How Body-Part Damage Shapes the Core Ragdoll Sandbox",
+            "Hyper Realistic Ragdoll is built around independent body-part reactions."
+          ],
+          [
+            "Weapons and Recovery Tools Create Different Test Scenarios",
+            "The listed weapons include the Katana, Sniper, Minigun, Rocket Launcher, Flamethrower, and Void Gun."
+          ],
+          [
+            "Destruction, Disasters, Creatures, and Vehicles Expand the Sandbox",
+            "Walls, towers, and trees can all break apart in Hyper Realistic Ragdoll."
+          ],
+          [
+            "Living Dummies Change What Happens After an Impact",
+            "Dummy behavior adds reactions beyond simply falling over."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "how-body-part-damage-shapes-the-core-ragdoll-sandbox",
+      "heading": "How Body-Part Damage Shapes the Core Ragdoll Sandbox",
+      "intro": "Hyper Realistic Ragdoll is built around independent body-part reactions. Punches, shots, and blasts do not produce one identical result: the affected part changes how a dummy moves afterward. A shot leg can make a dummy limp, while a broken leg can leave the dummy crawling. Damage to an arm can make it hang limp, and a hit to the head can cause the dummy to faint. These reactions turn each impact into a visible physics experiment rather than a simple health-bar exchange.",
+      "paragraphs": [
+        "The sandbox also lets you interact with dummies directly after an impact. You can grab them, swing them, and throw them, then observe how their condition affects the way they fall or move. This makes positioning part of the experiment: an injured dummy can be handled as a physical object, while its remaining reactions continue to shape the result. Dummies may stumble, fight back, or get up, so the scene can change even after the first hit.",
+        "For a quick injury check, Body Scan uses an X-ray view to show broken bones. It is useful when the visible animation does not immediately tell you which body part was affected, but the dedicated Body Scan guide covers that feature in greater detail."
+      ],
+      "bullets": [
+        "Leg shot: the dummy limps.",
+        "Broken leg: the dummy crawls.",
+        "Broken arm: the arm goes limp.",
+        "Head hit: the dummy faints.",
+        "Grab, swing, and throw dummies to test how physical damage changes their movement."
+      ]
+    },
+    {
+      "id": "weapons-and-recovery-tools-create-different-test-scenarios",
+      "heading": "Weapons and Recovery Tools Create Different Test Scenarios",
+      "intro": "The listed weapons include the Katana, Sniper, Minigun, Rocket Launcher, Flamethrower, and Void Gun. The game description says new weapons unlock through play, so experimenting with the available selection can expand your options over time. It does not provide a specific unlock order or requirements for each weapon.",
+      "paragraphs": [
+        "These are weapons, while recovery tools serve a different purpose: the Medkit and Defibrillator are named as ways to bring dummies back. For individual weapon functions and documented use cases, see the Hyper Realistic Ragdoll weapons guide. The available description does not explain how to equip each item or the exact conditions for unlocking it."
+      ],
+      "bullets": [
+        "Named weapons: Katana, Sniper, Minigun, Rocket Launcher, Flamethrower, and Void Gun.",
+        "Progression: new weapons unlock through play; individual unlock conditions are not given.",
+        "Recovery tools: Medkit and Defibrillator bring dummies back. They are not weapons."
+      ]
+    },
+    {
+      "id": "destruction-disasters-creatures-and-vehicles-expand-the-sandbox",
+      "heading": "Destruction, Disasters, Creatures, and Vehicles Expand the Sandbox",
+      "intro": "Walls, towers, and trees can all break apart in Hyper Realistic Ragdoll. To get a clear look at how objects break, start by watching one structure at a time: compare a wall with a tower, then try a tree. For a disaster scenario instead, look for Tornado, Tsunami, or Meteor Rain.",
+      "paragraphs": [
+        "The world features a shark, a crocodile, a giant spider, and a T-Rex. The graveyard is the place to look for zombies as they rise. If you'd rather try an environmental hazard than look for a creature, pick a fixture such as the giant fan or crusher and watch what happens around it.",
+        "For a driving session, look for a car, the Monster Truck, or the Battle Tank. The giant fan, rocket, cannon, and crusher are listed as separate environmental features, alongside the Fight Ring."
+      ]
+    },
+    {
+      "id": "living-dummies-change-what-happens-after-an-impact",
+      "heading": "Living Dummies Change What Happens After an Impact",
+      "intro": "Dummy behavior adds reactions beyond simply falling over. The game description says dummies can talk and panic, help one another, fight back, and get up. That means a group can respond socially as well as physically: one dummy may react while another offers help, and a dummy that has fallen may rise again. These behaviors make the dummies less like stationary targets and give players more outcomes to observe during sandbox tests.",
+      "paragraphs": [
+        "The Medkit and Defibrillator are named as tools that bring dummies back. The description does not specify their individual effects or any conditions for using them, so treat them as recovery options rather than assuming they work identically. If a dummy is down, try the available recovery tool and observe the result; use their reactions, assistance, and ability to get up to see how the scene changes after recovery."
+      ]
+    },
+    {
+      "id": "guide-directory-codes",
+      "eyebrow": "Guides & Wiki",
+      "heading": "Hyper Realistic Ragdoll Codes & Rewards",
+      "intro": "Dedicated Hyper Realistic Ragdoll Codes & Rewards pages for Hyper Realistic Ragdoll players.",
+      "links": [
+        {
+          "label": "Hyper Realistic Ragdoll Codes",
+          "slug": "codes",
+          "description": "Check the verified status of Hyper Realistic Ragdoll codes, where to look for official announcements, how to avoid fake offers, and what to do if codes appear."
+        }
+      ]
+    },
+    {
+      "id": "guide-directory-updates",
+      "eyebrow": "Guides & Wiki",
+      "heading": "Hyper Realistic Ragdoll Updates & News",
+      "intro": "Dedicated Hyper Realistic Ragdoll Updates & News pages for Hyper Realistic Ragdoll players.",
+      "links": [
+        {
+          "label": "Hyper Realistic Ragdoll Update",
+          "slug": "updates",
+          "description": "Track verified Hyper Realistic Ragdoll release and update information, including dated changes, multiplayer and tool reports, fixes, availability. Read more."
+        }
+      ]
+    },
+    {
+      "id": "guide-directory-guides",
+      "eyebrow": "Guides & Wiki",
+      "heading": "Hyper Realistic Ragdoll Guides",
+      "intro": "Every Hyper Realistic Ragdoll Guides page, plus the full index for this topic.",
+      "links": [
+        {
+          "label": "Hyper Realistic Ragdoll Roblox Banned",
+          "slug": "banned",
+          "description": "Check Hyper Realistic Ragdoll's Roblox access status, what removal or review messages mean, possible explanations, player impact, and how to verify changes."
+        },
+        {
+          "label": "Hyper Realistic Ragdoll Beginner Guide",
+          "slug": "beginner-guide",
+          "description": "Start Hyper Realistic Ragdoll with an overview of its sandbox gameplay, controls to verify, physics interactions, tools, beginner steps, and progression limits."
+        },
+        {
+          "label": "Hyper Realistic Ragdoll Body Scan",
+          "slug": "body-scan",
+          "description": "Learn what Body Scan is documented to show, how to check its controls in-game, how to interpret observations, and which injury details remain unverified."
+        },
+        {
+          "label": "Hyper Realistic Ragdoll Controls",
+          "slug": "controls",
+          "description": "Find a device-aware Hyper Realistic Ragdoll controls guide covering verified PC inputs, scan and revive actions, mobile play, settings, and common input issues."
+        },
+        {
+          "label": "Hyper Realistic Ragdoll Maps",
+          "slug": "maps",
+          "description": "Explore documented Hyper Realistic Ragdoll areas, hazards, animals, vehicles, interactive landmarks, and sandbox routes without inventing map coordinates."
+        },
+        {
+          "label": "Hyper Realistic Ragdoll Assault Rifle",
+          "slug": "assault-rifle",
+          "description": "Check what is documented about the Hyper Realistic Ragdoll assault rifle, including its category, reported unlock information, use guidance. Updated for Roblox."
+        },
+        {
+          "label": "Hyper Realistic Ragdoll Bat",
+          "slug": "bat",
+          "description": "Learn what is documented about the Hyper Realistic Ragdoll bat, how to check its unlock requirement, how to use it, and which claims still need verification."
+        },
+        {
+          "label": "Hyper Realistic Ragdoll Boiling Water",
+          "slug": "boiling-water",
+          "description": "Review documented information about Boiling Water in Hyper Realistic Ragdoll, including how to check its unlock, a practical walkthrough, and evidence limits."
+        },
+        {
+          "label": "All Hyper Realistic Ragdoll Guides",
+          "slug": "guides",
+          "description": "Index of every Hyper Realistic Ragdoll Guides page."
+        }
+      ]
+    },
+    {
+      "id": "guide-directory-database",
+      "eyebrow": "Guides & Wiki",
+      "heading": "Hyper Realistic Ragdoll Database",
+      "intro": "Dedicated Hyper Realistic Ragdoll Database pages for Hyper Realistic Ragdoll players.",
+      "links": [
+        {
+          "label": "Hyper Realistic Ragdoll Weapons",
+          "slug": "weapons",
+          "description": "Explore a carefully verified Hyper Realistic Ragdoll weapons guide covering documented tools, how to check unlocks, reported uses, and what remains unconfirmed."
+        },
+        {
+          "label": "Hyper Realistic Ragdoll Vehicles",
+          "slug": "vehicles",
+          "description": "Review documented Hyper Realistic Ragdoll vehicles, reported driving interactions, unlock information to verify, vehicle and hazard combinations. Updated guide."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "How do you play Hyper Realistic Ragdoll on Roblox?",
+      "answer": "Start from the official Roblox experience listing for Hyper Realistic Ragdoll. Once inside, the documented sandbox activities include testing impacts on individual body parts, grabbing and throwing dummies, using weapons and tools, triggering destruction, and exploring creatures, machines, and vehicles. Specific input mappings are covered separately in the controls guide."
+    },
+    {
+      "question": "Is Hyper Realistic Ragdoll currently available on Roblox?",
+      "answer": "The supplied official game entry identifies Hyper Realistic Ragdoll as a Roblox experience by Emo Playworks and gives its place ID as 101277003916102. Use that official listing as the access check because the available game information confirms the experience identity, while access status can change independently of the description."
+    },
+    {
+      "question": "Does Hyper Realistic Ragdoll have verified codes or free rewards?",
+      "answer": "No verified codes are established in the available game information. The official description focuses on physics interactions, weapons, disasters, creatures, vehicles, and recovery tools rather than a code or reward system. Avoid treating third-party code lists as confirmed until an official source documents the feature and the code status."
+    },
+    {
+      "question": "What can you do in Hyper Realistic Ragdoll?",
+      "answer": "You can test how punches, shots, and blasts affect separate body parts, then grab, swing, or throw dummies. The experience also advertises breakable structures, disasters, talking and panicking dummies, recovery tools, creatures, environmental machines, and drivable vehicles such as a car, Monster Truck, and Battle Tank."
+    },
+    {
+      "question": "How does ragdoll physics affect gameplay?",
+      "answer": "Each body part reacts independently to impacts. The listed examples include limping after a leg is shot, crawling after a leg is broken, a limp arm after an arm injury, and fainting after a head hit. These reactions let players observe how different impacts change a dummy’s movement and behavior."
+    }
+  ],
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.roblox.com/games/101277003916102",
+      "title": "Hyper Realistic Ragdoll",
+      "sourceType": "official"
+    },
+    {
+      "url": "https://hyper-realistic-ragdoll.wiki/",
+      "title": "Hyper Realistic Ragdoll Weapons and Tools: Documentation ...",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://hyperrealisticragdoll.wiki/",
+      "title": "Hyper Realistic Ragdoll Wiki: Codes · Weapons (Nov 2026)",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://hyperrealisticragdollwiki.wiki/",
+      "title": "Hyper Realistic Ragdoll Wiki - KO Unlocks &amp; Limb Physics",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://hyper-realistic-ragdoll.wiki/weapons-and-tools",
+      "title": "Hyper Realistic Ragdoll Weapons and Tools: Documentation ...",
+      "sourceType": "guide"
+    }
+  ],
+  "lastReviewed": "2026-11-19"
+}

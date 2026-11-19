@@ -1,0 +1,71 @@
+{
+  "readyForLaunch": true,
+  "siteName": "Hyper Realistic Ragdoll Guide",
+  "shortName": "Hyper Realistic Ragdoll",
+  "description": "Find a clear starting point for Hyper Realistic Ragdoll on Roblox, with verified game details, access checks, beginner guidance, and links to focused guides.",
+  "language": "en",
+  "locale": "en_US",
+  "authorName": "Editorial Team",
+  "theme": {
+    "preset": "obsidian-red",
+    "overrides": {
+      "background": "226 49% 8%",
+      "foreground": "0 0% 99%",
+      "card": "226 49% 13%",
+      "card-foreground": "0 0% 99%",
+      "primary": "217 91% 60%",
+      "primary-foreground": "0 0% 0%",
+      "secondary": "226 49% 19%",
+      "muted": "226 49% 16%",
+      "muted-foreground": "0 0% 99%",
+      "border": "226 49% 24%",
+      "radius": ".75rem",
+      "card-shadow": "0 22px 70px hsl(217 91% 60% / .16)",
+      "hero-gradient": "radial-gradient(circle at 78% 14%, hsl(217 91% 60% / .2), transparent 36%)",
+      "background-pattern": "radial-gradient(hsl(217 91% 60% / .05) 1px, transparent 1px)",
+      "font-sans": "\"Inter\", ui-sans-serif, system-ui, sans-serif",
+      "font-heading": "\"Inter\", ui-sans-serif, system-ui, sans-serif",
+      "heading-weight": "700",
+      "heading-letter-spacing": "-0.03em"
+    },
+    "skin": "portal",
+    "headerStyle": "solid",
+    "componentStyle": "rounded",
+    "accentColorId": "default",
+    "colorMode": "custom",
+    "background": "#0B1020",
+    "accent": "#3B82F6",
+    "fontId": "inter"
+  },
+  "hosting": {
+    "siteUrl": "https://hyper-realistic-ragdoll.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "allowedExternalDomains": [
+    "www.roblox.com"
+  ],
+  "assets": {
+    "logo": "/images/hyper-realistic-ragdoll-logo.png",
+    "cover": "/images/hyper-realistic-ragdoll-cover.png",
+    "openGraph": "/images/hyper-realistic-ragdoll-og.svg",
+    "favicon": "/images/hyper-realistic-ragdoll-logo.png"
+  },
+  "game": {
+    "name": "Hyper Realistic Ragdoll",
+    "platform": "Roblox",
+    "developer": "Emo Playworks",
+    "genre": "",
+    "officialUrl": "https://www.roblox.com/games/101277003916102"
+  },
+  "seo": {
+    "titleTemplate": "%s | Hyper Realistic Ragdoll Guide"
+  },
+  "navigation": [
+    "codes",
+    "guides",
+    "updates",
+    "weapons",
+    "vehicles"
+  ]
+}
