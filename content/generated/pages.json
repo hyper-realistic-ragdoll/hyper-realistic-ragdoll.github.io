@@ -11,15 +11,15 @@
     "hero": {
       "eyebrow": "Database",
       "heading": "Hyper Realistic Ragdoll Weapons Guide",
-      "lead": "The Roblox listing names six Hyper Realistic Ragdoll weapons: Katana, Sniper, Minigun, Rocket Launcher, Flamethrower, and Void Gun. It says more weapons unlock as you play, but it does not give an unlock requirement for each item. If a locked item shows a requirement in your session, use that prompt rather than assuming the weapons unlock in the order listed. Medkit and Defibrillator serve a different purpose: they can bring dummies back. The table and steps below separate the named weapons from recovery and inspection tools and show what to check before choosing one."
+      "lead": "The Roblox listing names six Hyper Realistic Ragdoll weapons: Katana, Sniper, Minigun, Rocket Launcher, Flamethrower, and Void Gun. It says you unlock more weapons through play and leaves individual requirements open. Medkit and Defibrillator serve a different purpose in the sandbox by bringing dummies back. If the game shows a requirement for the item you want, use that prompt to decide what to do next. The table and steps below help you identify named equipment, check whether you can use it, and compare what happens in the game."
     },
     "sections": [
       {
-        "id": "six-weapons-named-on-roblox-and-what-to-check-before-equipping",
-        "heading": "Six Weapons Named on Roblox and What to Check Before Equipping",
-        "intro": "Weapon name\nKatana\nSniper\nMinigun\nRocket Launcher\nFlamethrower\nVoid Gun",
+        "id": "check-an-item-s-unlock-or-equip-prompt-in-game",
+        "heading": "Check an Item’s Unlock or Equip Prompt In-Game",
+        "intro": "Open Hyper Realistic Ragdoll on Roblox and check that the creator is Emo Playworks before joining. Once you’re in, look for the item you want and use its on-screen instructions to tell whether you need to unlock it first or can equip it now.",
         "paragraphs": [
-          "These are the six examples named in the Roblox description. The description mentions additional weapons and says new ones unlock through play. The rows follow the description’s order. Check the individual item in your session for its unlock requirement, if one is shown."
+          "Open Hyper Realistic Ragdoll on Roblox and check that the creator is Emo Playworks before joining. Once you’re in, look for the item you want and use its on-screen instructions to tell whether you need to unlock it first or can equip it now."
         ],
         "table": {
           "caption": "Hyper Realistic Ragdoll Weapons at a Glance",
@@ -29,72 +29,63 @@
           ],
           "rows": [
             [
-              "Six Weapons Named on Roblox and What to Check Before Equipping",
-              "Weapon name Katana Sniper Minigun Rocket Launcher Flamethrower Void Gun"
+              "Check an Item’s Unlock or Equip Prompt In-Game",
+              "Open Hyper Realistic Ragdoll on Roblox and check that the creator is Emo Playworks before joining."
             ],
             [
-              "Compare Weapons by How Dummies Move After an Impact",
-              "To compare weapons in Hyper Realistic Ragdoll, pick one movement to watch before and after a simulated impact."
+              "Compare Weapons by How Dummies React",
+              "To compare weapons in Hyper Realistic Ragdoll, try an equipped item on a dummy and watch what happens before using it again."
             ],
             [
-              "Use Body Scan to Inspect Broken Bones",
-              "If a dummy starts moving differently after an impact, open Body Scan to check the affected area."
-            ],
-            [
-              "Choose Medkit or Defibrillator to Bring a Dummy Back",
-              "If you want to bring a dummy back, look for a Medkit or Defibrillator rather than switching to another weapon."
+              "Medkit and Defibrillator Bring Dummies Back",
+              "If you want to see what a downed dummy does once it’s back on its feet, use whichever recovery tool you have available."
             ]
           ]
         },
         "bullets": [
-          "Match the full name in the list to the weapon shown in your session.",
-          "If the weapon is locked and displays a requirement, read it before deciding whether to work toward that weapon or pick one you can equip now.",
-          "If the game shows an equip prompt for the weapon you selected, follow it."
+          "If the item shows an unlock requirement, read it before working toward it. Once you’ve met the requirement, check the item again to see whether it’s available to equip.",
+          "If the game shows an equip instruction for the item, follow the prompt on your screen rather than assuming a key or button from another device will work.",
+          "If you can’t find the item or it gives you no clear next step, pick equipment the game shows as available. A missing prompt doesn’t tell you what you need to do to unlock the item."
         ]
       },
       {
-        "id": "compare-weapons-by-how-dummies-move-after-an-impact",
-        "heading": "Compare Weapons by How Dummies Move After an Impact",
-        "intro": "To compare weapons in Hyper Realistic Ragdoll, pick one movement to watch before and after a simulated impact. A dummy’s body parts react independently to punches, shots, and blasts, so the clearest change might be in how it walks or how one arm moves. Watch what the dummy does after the initial stumble as well as how it reacts on contact.",
+        "id": "compare-weapons-by-how-dummies-react",
+        "heading": "Compare Weapons by How Dummies React",
+        "intro": "To compare weapons in Hyper Realistic Ragdoll, try an equipped item on a dummy and watch what happens before using it again. Pay attention to two things: how the dummy moves at the moment of impact and what it does once that first reaction passes. The sandbox treats body parts separately, so a brief stumble and a change in how the dummy moves afterward tell you different things.",
         "paragraphs": [
-          "When you switch weapons, start with a dummy moving normally and watch for the same response again. If you’re comparing changes in gait, keep watching the legs on both attempts. Record what you saw for each weapon in that attempt and use those observations to choose which one to try again for the reaction you want.",
-          "For a closer look at what happened to an individual limb, see the Body Scan guide."
+          "Use those observations to pick an item for the effect you want to see in the sandbox. If you’re looking for a noticeable ragdoll reaction, compare what happens right at impact. If you’re more interested in how the dummy moves afterward, watch until it starts moving on its own again, if it does. A dramatic fall doesn’t tell you how the dummy will move when it gets back up."
         ],
         "bullets": [
-          "For gait, watch whether the dummy keeps walking normally, limps, or switches to crawling.",
-          "For arm movement, watch whether the arm moves with the dummy or hangs limp as the rest of its body moves."
+          "Watch the first reaction. Note whether the dummy stumbles, falls, or stays upright rather than judging the result by the weapon’s name.",
+          "Keep watching after the impact. Record whether the dummy gets back up and how it moves afterward. If it stays down, note that separately.",
+          "Switch to another available item. Start with a dummy in a similar position and condition. If the first dummy is already limping, use an unaffected one so you don’t mistake an earlier reaction for the effect of the second item."
         ]
       },
       {
-        "id": "use-body-scan-to-inspect-broken-bones",
-        "heading": "Use Body Scan to Inspect Broken Bones",
-        "intro": "If a dummy starts moving differently after an impact, open Body Scan to check the affected area. The X-ray view shows broken bones, so you can check for a break directly instead of guessing from the dummy’s movement.",
+        "id": "medkit-and-defibrillator-bring-dummies-back",
+        "heading": "Medkit and Defibrillator Bring Dummies Back",
+        "intro": "If you want to see what a downed dummy does once it’s back on its feet, use whichever recovery tool you have available.",
         "paragraphs": [
-          "When comparing weapons, keep what you saw the dummy do separate from what the scan shows. If an arm stops moving normally, for example, that tells you where to look in the X-ray view. Wait until you see a break before counting it as one in your comparison.",
-          "Body Scan is for inspection: opening the X-ray view doesn’t cause a break or repair one. For a closer look at the feature and how injuries affect dummy movement, see the Hyper Realistic Ragdoll Body Scan Guide."
-        ]
-      },
-      {
-        "id": "choose-medkit-or-defibrillator-to-bring-a-dummy-back",
-        "heading": "Choose Medkit or Defibrillator to Bring a Dummy Back",
-        "intro": "If you want to bring a dummy back, look for a Medkit or Defibrillator rather than switching to another weapon. Either tool is an option for recovery; you don’t need to look for both.",
-        "paragraphs": [
-          "The game’s Roblox listing doesn’t distinguish between the two tools’ recovery effects. If only one is available in your session, start with that one. If the game shows a prompt for the tool you choose, follow it rather than assuming the item works a certain way because of its name."
+          "After using the tool, keep watching the same dummy. Getting up is one thing to look for; what it does next is another. Dummies can talk, help each other, or fight back, so if other dummies are nearby, watch how the one you brought back responds to them."
+        ],
+        "bullets": [
+          "Medkit: Use it to bring a downed dummy back.",
+          "Defibrillator: Use it as an alternative to the Medkit to bring a dummy back."
         ]
       }
     ],
     "faq": [
       {
-        "question": "Where can you find the weapons list in Hyper Realistic Ragdoll?",
-        "answer": "Look for Weapons and Tools in the description of Emo Playworks' Roblox experience. That section is useful for checking the spelling of an item such as Void Gun or Flamethrower. It names featured weapons rather than presenting a complete inventory, so an item missing from that list is not necessarily absent from the game."
+        "question": "How do you unlock weapons in Hyper Realistic Ragdoll?",
+        "answer": "New weapons become available as you play. The Roblox description gives the general progression rule and leaves the individual milestones open. If you’re playing toward a particular item, check whether the game displays a requirement for it before spending time on a specific task."
       },
       {
-        "question": "How do you unlock weapons in Hyper Realistic Ragdoll?",
-        "answer": "Playing the experience unlocks more weapons, but the Roblox description does not pair each named weapon with a specific milestone. If an item is still locked, follow any requirement the game shows for that item. Its appearance in the description does not mean it is available when you start."
+        "question": "Where can you find the weapons list in Hyper Realistic Ragdoll?",
+        "answer": "Look in the description on the official Roblox experience page by Emo Playworks. Its Weapons and Tools entry gives you six names to look for during play. The wording leaves room for additional items, so use those names as a starting point when looking for equipment."
       },
       {
         "question": "How do weapons interact with ragdoll physics?",
-        "answer": "A dummy can react differently depending on which body part is affected. For example, a broken arm can hang limp without producing the same movement change as a leg injury. When comparing two items, look at what the dummy can still do afterward rather than treating every visible reaction as the same result."
+        "answer": "The affected body part can change how a dummy moves after an impact. A leg shot can leave it limping, while a broken leg can leave it crawling. If you want to check for a break, Body Scan gives you an X-ray view of the dummy’s bones."
       }
     ],
     "screenshots": [],
@@ -106,7 +97,7 @@
       "beginner-guide",
       "codes"
     ],
-    "lastReviewed": "2026-11-19"
+    "lastReviewed": "2026-11-20"
   },
   {
     "enabled": true,
@@ -120,15 +111,16 @@
     "hero": {
       "eyebrow": "Guide",
       "heading": "Hyper Realistic Ragdoll Roblox Banned: Status and Access",
-      "lead": "If you searched for “Hyper Realistic Ragdoll roblox banned,” check the original Roblox experience before treating reports of a shutdown as proof of a ban. The official listing identifies the game, but its description alone does not tell you whether you can join right now. Open the Roblox listing for Emo Playworks and confirm that the link points to the original experience. If Roblox offers a Play button, try it and note whether a session starts; if a notice appears, read its exact wording. The steps and table below separate listing visibility, play access, and moderation claims."
+      "lead": "If you searched for “Hyper Realistic Ragdoll Roblox banned,” the ban claim is unconfirmed. The original experience has an official Roblox listing, but the listing alone does not establish whether you can join right now. Open the listing for Emo Playworks and check what Roblox displays for that specific experience. If Roblox offers a way to join, try it and note whether you get into the game or see a notice. The steps and table below show how to check the original listing, interpret what you see, and tell whether access has changed."
     },
     "sections": [
       {
-        "id": "find-the-original-roblox-listing-by-emo-playworks",
-        "heading": "Find the Original Roblox Listing by Emo Playworks",
-        "intro": "Start with the official Roblox listing for Hyper Realistic Ragdoll by Emo Playworks. If you found the game through a search result or a link someone shared, use this address as your reference: https://www.roblox.com/games/101277003916102",
+        "id": "start-with-the-original-emo-playworks-listing",
+        "heading": "Start With the Original Emo Playworks Listing",
+        "intro": "Open the official Hyper Realistic Ragdoll listing: https://www.roblox.com/games/101277003916102. If you arrived through Roblox search or a link someone shared, check two details: the creator should be Emo Playworks, and the number immediately after /games/ in the address should be 101277003916102.",
         "paragraphs": [
-          "A shared link can have a different ending and still point to the original listing. Compare the digits immediately after /games/ in the address, then check the title and creator on the page. Once all three match, use that listing to check whether you can start a session."
+          "Use the place number to tell apart results with the same or similar titles. If a page has the right title but a different place number, it is not the original listing. If a post shows only the title or a thumbnail, follow its Roblox link and check where it lands before treating the post as a report about the original.",
+          "A matching creator and place number tell you which experience you are checking, not whether you can join it."
         ],
         "table": {
           "caption": "Hyper Realistic Ragdoll Roblox Banned at a Glance",
@@ -138,88 +130,69 @@
           ],
           "rows": [
             [
-              "Find the Original Roblox Listing by Emo Playworks",
-              "Start with the official Roblox listing for Hyper Realistic Ragdoll by Emo Playworks."
+              "Start With the Original Emo Playworks Listing",
+              "Open the official Hyper Realistic Ragdoll listing: https://www.roblox.com/games/101277003916102."
             ],
             [
-              "Check Whether You Can Start a Session",
-              "Count the attempt as a successful join only once you enter Hyper Realistic Ragdoll."
+              "Check Whether You Can Join Right Now",
+              "Open the original Hyper Realistic Ragdoll listing and look for a join option."
             ],
             [
-              "An Under-Review Notice Is Not a Final Ban Decision",
-              "If Roblox displays an under-review notice for Hyper Realistic Ragdoll, treat it as a status message, not a verdict."
+              "An Under-Review Message Is Not a Permanent Ban Notice",
+              "If a post says Hyper Realistic Ragdoll was banned, compare that claim with the full notice on Roblox."
             ],
             [
-              "What Would Confirm a Ban or a Return Date?",
-              "A title disappearing from search or a failed join does not, by itself, confirm that Roblox banned Hyper Realistic Ragdoll."
+              "Check the Same Listing Before Calling It a Return",
+              "To see whether access has changed, compare two checks on the original Emo Playworks listing."
             ]
           ]
-        },
-        "bullets": [
-          "Title — Look for Hyper Realistic Ragdoll. Another Roblox experience can use the same name, so check the creator and place ID as well.",
-          "Creator — Look for Emo Playworks on the Roblox page itself.",
-          "Place ID — Match the full number 101277003916102. If the number differs, use the official link above for your access check."
-        ]
+        }
       },
       {
-        "id": "check-whether-you-can-start-a-session",
-        "heading": "Check Whether You Can Start a Session",
-        "intro": "Count the attempt as a successful join only once you enter Hyper Realistic Ragdoll. Seeing a Play button, opening the Roblox app, or reaching a loading screen is not the same as getting into the game.",
+        "id": "check-whether-you-can-join-right-now",
+        "heading": "Check Whether You Can Join Right Now",
+        "intro": "Open the original Hyper Realistic Ragdoll listing and look for a join option. If you see one, select it and wait to see whether you enter the experience. If the page offers no join option, record what it displays. If the attempt stalls or ends before you get in, note the stage you reached and copy any message Roblox shows.",
         "paragraphs": [
-          "Open the original Roblox listing and look for a Play option. If there is one, select it and see whether you reach the game itself. If there is no Play option, note that separately from an attempt where you selected Play but never got past the loading screen. Use the outcome below that matches where you stopped."
-        ],
-        "steps": [
-          {
-            "heading": "The listing does not open",
-            "description": "You could not reach the experience page on this attempt, so you did not get far enough to check whether you could start a session."
-          },
-          {
-            "heading": "The listing opens, but no session starts",
-            "description": "You reached the page but did not enter the game. Note whether there was no Play option or whether the attempt stopped after you selected it. Neither result tells you why you could not join."
-          },
-          {
-            "heading": "A session starts",
-            "description": "You entered the original experience on this attempt. That confirms you could join at that time, not that other players can join or that your next attempt will succeed."
-          }
+          "If you share the result with another player, include when you checked and what happened. For example, “The listing loaded, but Roblox showed an error when I tried to join” tells them exactly where the check stopped."
         ],
         "bullets": [
-          "The listing does not open: You could not reach the experience page on this attempt, so you did not get far enough to check whether you could start a session.",
-          "The listing opens, but no session starts: You reached the page but did not enter the game. Note whether there was no Play option or whether the attempt stopped after you selected it. Neither result tells you why you could not join.",
-          "A session starts: You entered the original experience on this attempt. That confirms you could join at that time, not that other players can join or that your next attempt will succeed."
+          "The listing opens and you make no join attempt. You reached the page. Whether you could enter the experience remains unknown, even if a join option was visible.",
+          "The join attempt succeeds. You entered the original experience on that attempt, confirming that you could play at the time of your check.",
+          "The join attempt fails. You reached the listing and started the join process, but the attempt ended before you entered. Record any message that appeared during the attempt.",
+          "The listing fails to open. Your check stopped before you could see whether Roblox offered a join option. Record the page error if one appeared."
         ]
       },
       {
-        "id": "an-under-review-notice-is-not-a-final-ban-decision",
-        "heading": "An Under-Review Notice Is Not a Final Ban Decision",
-        "intro": "If Roblox displays an under-review notice for Hyper Realistic Ragdoll, treat it as a status message, not a verdict. The words “under review” alone do not tell you why the review started, how long any access restriction might last, or what the final decision will be.",
+        "id": "an-under-review-message-is-not-a-permanent-ban-notice",
+        "heading": "An Under-Review Message Is Not a Permanent Ban Notice",
+        "intro": "If a post says Hyper Realistic Ragdoll was banned, compare that claim with the full notice on Roblox. A post’s headline or screenshot caption is someone’s interpretation, not part of the notice. If a screenshot cuts off the text, read the whole message before repeating the claim.",
         "paragraphs": [
-          "Read the full notice before passing it along. If it also says the experience is unavailable, keep that statement separate from the review status: one describes access, while the other describes an ongoing review. If the notice only mentions a review, do not add that the game is unavailable.",
-          "When sharing what you saw, quote the notice as it appeared or say, “Roblox showed me an under-review notice.” Avoid changing that to “the game was permanently banned.” Likewise, don’t call it a temporary ban: the absence of a final decision does not tell you when or whether access will change."
+          "For example, if a notice says an experience is under review, it describes a review without giving its outcome. If it only says the experience is unavailable, it gives no reason for the lack of access. Neither message, on its own, says that the experience violated a rule, that its creator took it offline, or that Roblox removed it permanently. These are examples of how to read a notice, not messages currently reported for Hyper Realistic Ragdoll.",
+          "Even if a notice explicitly says an experience was removed, check whether it also gives a reason or says the removal is permanent. Those are separate details. If you’re sharing what you saw, quote the notice rather than swapping in a stronger word: “Roblox showed an unavailable message” tells other players what appeared without turning it into a ban claim."
         ]
       },
       {
-        "id": "what-would-confirm-a-ban-or-a-return-date",
-        "heading": "What Would Confirm a Ban or a Return Date?",
-        "intro": "A title disappearing from search or a failed join does not, by itself, confirm that Roblox banned Hyper Realistic Ragdoll. Treat a status claim as confirmed only when a statement clearly refers to the original experience by Emo Playworks and comes from an identifiable official channel, such as Roblox or the creator. A matching game title alone is not enough to establish that a post concerns the same experience.",
+        "id": "check-the-same-listing-before-calling-it-a-return",
+        "heading": "Check the Same Listing Before Calling It a Return",
+        "intro": "To see whether access has changed, compare two checks on the original Emo Playworks listing. Note when you first checked and where you got stuck. When you revisit, use the same Roblox account if possible and check whether you get past that point. If the listing loads this time but you still haven't entered the experience, report that the page now opens, not that the game is playable.",
         "paragraphs": [
-          "Read the statement for the exact claim it makes. A moderation decision should be explicitly described as such; a notice that access is being reviewed does not establish the final outcome. Likewise, a return date is confirmed only if the statement names a date for this experience. A rumor, an estimate, or a date discussed by players is not an announced return date.",
-          "Check when the statement was issued and whether a newer update changes it. Keep the announcement separate from your own access test: a stated decision or date tells you what was announced, while successfully starting a session shows that you could play at that time. Neither a past announcement nor one failed attempt establishes the experience's current availability on every account or device.",
-          "If a post does not identify the original experience, its issuer, or a specific decision or date, describe it no more strongly than its wording supports. Do not infer a removal reason or assume that a return is planned without a direct statement."
+          "If a post says Hyper Realistic Ragdoll is back, check which experience it points to. Joining a different experience with the same title only tells you that the other experience was playable when you tried it. If the post doesn't point to a listing, use the original one for your own comparison.",
+          "If a join attempt failed earlier and you later get into the original experience, say exactly that: \"I couldn't join earlier, but I got in on my next check.\" That describes the change you saw without assuming why the earlier attempt failed or that Roblox lifted a ban."
         ]
       }
     ],
     "faq": [
       {
         "question": "Is Hyper Realistic Ragdoll banned on Roblox?",
-        "answer": "The Roblox listing identifies the original experience as Emo Playworks’ game; it is not a ban notice. If someone shares a shutdown claim, check whether it includes an official statement about that same experience. A headline that names the game but gives no official decision does not establish a ban."
+        "answer": "The ban claim is unconfirmed. Roblox identifies the original as an experience by Emo Playworks, but that identifies the game, not its moderation status. If someone says it was banned, ask what Roblox actually displayed and whether the message referred to the original experience."
       },
       {
         "question": "What does an under-review status mean for a Roblox game?",
-        "answer": "If Roblox displays a notice saying the experience is under review, read it as a review notice, not a verdict. Unless the notice says more, it does not tell you why the review is happening, whether the game will return, or when you should try joining again."
+        "answer": "The wording describes a review, not a final decision. If you are looking at a screenshot rather than the Roblox page itself, check which experience it shows and when it was captured. Even a genuine screenshot does not tell you whether the same message is still displayed today."
       },
       {
         "question": "Where can I check for official status updates?",
-        "answer": "Bookmark https://www.roblox.com/games/101277003916102 to check what Roblox displays for the original experience. If a post announcing a change links to a Roblox page with a similar name, compare its destination with that bookmark before relying on the post. The title alone is not enough to identify the game."
+        "answer": "Start with the original Roblox listing for Emo Playworks’ Hyper Realistic Ragdoll. If someone shares a status update, ask for the Roblox link it refers to rather than relying on the title alone. That gives you a way to check whether the update concerns the original or a different experience."
       }
     ],
     "screenshots": [],
@@ -232,7 +205,7 @@
       "bat",
       "weapons"
     ],
-    "lastReviewed": "2026-11-19"
+    "lastReviewed": "2026-11-20"
   },
   {
     "enabled": true,
@@ -246,15 +219,18 @@
     "hero": {
       "eyebrow": "Guide",
       "heading": "Hyper Realistic Ragdoll Beginner Guide",
-      "lead": "Use this Hyper Realistic Ragdoll beginner guide to plan your first session: try one interaction with a dummy, then watch what it does before trying another. New weapons unlock through play, but Roblox's game description does not give an unlock order. Start by looking for the grab action on your device, and try swinging and throwing separately so you can tell which action produced which response. Before choosing what to try next, check which tools you can actually equip. The steps and quick-reference table below cover your first test, how to read a dummy's response, and what to try next."
+      "lead": "Use this Hyper Realistic Ragdoll beginner guide to plan your first session around one dummy and the actions you can use right away. Start with a grab, then practice a swing and a throw in separate attempts. Follow any action prompts you see on your device. New weapons unlock through play, so choose your first unlock goal by checking whether the item you want shows a requirement in-game. The steps and comparison table below cover what to watch during your first test, when to try a recovery tool, and where to go next."
     },
     "sections": [
       {
-        "id": "start-with-one-dummy-and-test-one-action-at-a-time",
-        "heading": "Start With One Dummy and Test One Action at a Time",
-        "intro": "Pick a dummy you can see clearly and watch it for a moment before you grab it. Notice whether it’s standing still or already moving, and pay attention to where its arms and legs are. In Hyper Realistic Ragdoll, each body part can respond independently, so a change in one limb can tell you more than the dummy’s overall movement.",
+        "id": "grab-one-dummy-and-compare-what-happens-next",
+        "heading": "Grab One Dummy and Compare What Happens Next",
+        "intro": "In Hyper Realistic Ragdoll, you choose an interaction, watch how the dummy moves, then change one thing on the next attempt. For your first comparison, pick a dummy you can see from head to toe. Use the action prompts shown on your device, or check the Controls Guide if you’re unsure which input to use.",
         "paragraphs": [
-          "Use what you saw to choose your next test. If you lost track of the arms during the swing, repeat the swing and watch just one arm. If you suspect a break, use Body Scan to check the bone in the in-game X-ray."
+          "Grab: Hold the dummy still for a moment before moving it. Look at how its arms and legs hang. That gives you a starting point for spotting what changes when you swing it.",
+          "Swing: Move the dummy in one direction and then reverse. Watch the feet as you turn: do they follow the change in direction right away, or keep moving the other way for a moment?",
+          "Throw: Follow the dummy from release to landing. Notice which body part touches down first, then watch what the arms and legs do after contact. For a second throw, start from roughly the same spot and change just the direction so you can compare the landings.",
+          "An impact can change how one body part moves without producing the same reaction elsewhere. If a limb moves differently after a landing, watch it separately rather than judging the reaction by the dummy’s overall tumble. See the Body Scan Guide for how the in-game X-ray shows broken bones."
         ],
         "table": {
           "caption": "Hyper Realistic Ragdoll Beginner Guide at a Glance",
@@ -264,73 +240,72 @@
           ],
           "rows": [
             [
-              "Start With One Dummy and Test One Action at a Time",
-              "Pick a dummy you can see clearly and watch it for a moment before you grab it."
+              "Grab One Dummy and Compare What Happens Next",
+              "In Hyper Realistic Ragdoll, you choose an interaction, watch how the dummy moves, then change one thing on the next attempt."
             ],
             [
-              "Wait to See Whether a Dummy Gets Back Up",
-              "After you let go, give the dummy a moment before stepping in again."
+              "Give a Downed Dummy Time to Get Back Up",
+              "When a dummy goes down, stop interacting with it and watch before reaching for a tool."
             ],
             [
-              "Try What You Can Equip Before Chasing an Unlock",
-              "Make a tool you can equip and use right now your first pick."
+              "Check an Item’s Requirement Before Chasing Its Unlock",
+              "For your first session, use a weapon or tool you already have."
             ],
             [
-              "Try Breakable Scenery Before Adding a Disaster",
-              "For a scenery test in your next session, pick one wall and watch how it breaks."
+              "Try a Breakable Structure, a Disaster, or a Drive Next",
+              "Pick your next activity by what you want to test: how an object breaks, what changes during a disaster, or how a vehicle handles."
             ]
           ]
-        },
-        "bullets": [
-          "Find the grab action in the in-game controls for your device. Use it on the dummy you’ve been watching and take a moment to see how the dummy moves while you hold it.",
-          "Swing the dummy while keeping your hold. Pick an arm or leg to follow through the swing, then watch what that limb does when you stop swinging.",
-          "Make the throw a separate attempt. Start with a dummy in a similar position if you want to compare the two actions. After the throw, follow the same limb you watched during the swing and see how it moves after landing."
+        }
+      },
+      {
+        "id": "give-a-downed-dummy-time-to-get-back-up",
+        "heading": "Give a Downed Dummy Time to Get Back Up",
+        "intro": "When a dummy goes down, stop interacting with it and watch before reaching for a tool. Dummies can get back up on their own, so a fall doesn't automatically mean you need to revive one. If it stands again while you're watching, leave the recovery tools for a separate attempt.",
+        "paragraphs": [
+          "Keep an eye on nearby dummies while you wait. They can panic, talk, or help one another. They can also fight back, so watch for how the dummy responds when you interact with it again. If another dummy comes over to help, give it a chance to act before stepping in.",
+          "If the dummy is still down and you want to see a revival, try a Medkit or Defibrillator, whichever you have available. Use one tool rather than both, then watch how the dummy responds before doing anything else. If you don't have either tool, you can still use the pause to see whether the dummy gets back up without your help."
         ]
       },
       {
-        "id": "wait-to-see-whether-a-dummy-gets-back-up",
-        "heading": "Wait to See Whether a Dummy Gets Back Up",
-        "intro": "After you let go, give the dummy a moment before stepping in again. It can get up, fight back, or react to a nearby dummy. These are possible responses, not stages you should expect to see in order.",
+        "id": "check-an-item-s-requirement-before-chasing-its-unlock",
+        "heading": "Check an Item’s Requirement Before Chasing Its Unlock",
+        "intro": "For your first session, use a weapon or tool you already have. Once you know what you want to try next, pick one weapon that fits that activity. For example, if you want to compare an up-close interaction with the ranged one you just tried, check the Katana rather than working toward another ranged option.",
         "paragraphs": [
-          "If a dummy stays down and you want to bring it back rather than keep watching, a Medkit or Defibrillator can revive it."
+          "New weapons become available as you play, but don’t assume the first locked weapon you notice is the one you should pursue. Check the item you want in-game and let its displayed requirement, if there is one, guide what you do next.",
+          "If you’re still deciding which item to try, use the Hyper Realistic Ragdoll Weapons Guide to compare weapons and tools before you settle on a goal."
         ],
         "bullets": [
-          "The dummy gets up: Watch its first movements after it stands. If you touch it again right away, you’ll miss the chance to see how it moves on its own.",
-          "The dummy fights back: Step back in the game instead of grabbing it again. Let its response play out before you decide whether to continue with the same dummy.",
-          "Another dummy reacts: Keep both dummies in view. They can talk, panic, and help each other, so watch which one responds and what the other does next before you step in."
+          "If the game shows a requirement, check whether it fits what you want to do this session. Follow it if it does, or save that unlock for later.",
+          "If the game shows no requirement, stick with equipment you can use now and check the item again later rather than guessing which activity will unlock it."
         ]
       },
       {
-        "id": "try-what-you-can-equip-before-chasing-an-unlock",
-        "heading": "Try What You Can Equip Before Chasing an Unlock",
-        "intro": "Make a tool you can equip and use right now your first pick. The Roblox listing names weapons that appear in Hyper Realistic Ragdoll, but a name on that list does not tell you whether you can equip it in your current session. Treat the listing as a roster, not a shopping list for your first session.",
+        "id": "try-a-breakable-structure-a-disaster-or-a-drive-next",
+        "heading": "Try a Breakable Structure, a Disaster, or a Drive Next",
+        "intro": "Pick your next activity by what you want to test: how an object breaks, what changes during a disaster, or how a vehicle handles. Start with one object, one spot to watch, or one short route.",
         "paragraphs": [
-          "If another weapon becomes usable as you play, give it a separate trial before deciding whether to switch. Pick one thing to compare, such as how easy it is to tell which part of the dummy reacted. Keep the setup as similar as you can and change only the tool. If you change the setup too, it is harder to tell what made the difference.",
-          "Keep the first tool if it makes the response you care about easier to see. Switch if the new option gives you a clearer view of that response or lets you try a different kind of interaction you want to explore. For the named roster, see the Hyper Realistic Ragdoll Weapons Guide."
-        ]
-      },
-      {
-        "id": "try-breakable-scenery-before-adding-a-disaster",
-        "heading": "Try Breakable Scenery Before Adding a Disaster",
-        "intro": "For a scenery test in your next session, pick one wall and watch how it breaks. Towers and trees can break apart too, so choose one of those for a follow-up if you want to compare how different objects come apart. Give each object its own test so you can follow what happens to it from the first break.",
-        "paragraphs": [
-          "When you want to see a larger event, try Tornado, Tsunami, or Meteor Rain. Pick one object to keep in view during the event. If you've already watched a wall break on its own, start with a wall again so you have something familiar to compare with your first test.",
-          "If you'd rather watch an encounter, look for the zombies that rise from the graveyard. Give them a visit of their own so you can focus on what they do without splitting your attention between the zombies and a disaster."
+          "Pick your next activity by what you want to test: how an object breaks, what changes during a disaster, or how a vehicle handles. Start with one object, one spot to watch, or one short route."
+        ],
+        "bullets": [
+          "Breakable structure — Look for a wall, tower, or tree. All three can break apart. Focus on one object and watch where it starts to come apart and what, if anything, stays standing. Try a different type of structure if you want a comparison.",
+          "Disaster — If a Tornado or Meteor Rain is underway, pick one landmark to watch. Note what changes around it first instead of trying to follow everything happening across the area.",
+          "Driving — Start with a car. Pick a short stretch with room for a turn, then see how much space you need to turn and stop. If you try the Monster Truck later, use the same stretch to compare how it handles."
         ]
       }
     ],
     "faq": [
       {
         "question": "How do you start playing Hyper Realistic Ragdoll?",
-        "answer": "Open the Hyper Realistic Ragdoll listing on Roblox and check that the creator is Emo Playworks. If you reached the listing through a search result or a shared link, check the creator before trying to join; the title alone is less useful for identifying the original experience."
+        "answer": "Open the official Roblox listing and check that the creator shown is Emo Playworks. If Roblox offers a Play button, use it to join. If you arrived through Roblox search or a shared link, the creator name gives you a quick way to check that you opened the intended experience. https://www.roblox.com/games/101277003916102"
+      },
+      {
+        "question": "What should a beginner try first in Hyper Realistic Ragdoll?",
+        "answer": "If you want a first goal with a clear result to look for, try a Body Scan after you notice a dummy moving differently. Pick the limb you were watching and check it on the X-ray. The scan lets you see whether that bone is broken."
       },
       {
         "question": "How do ragdoll physics work in the game?",
-        "answer": "Watch what the dummy does after contact rather than judging by the initial fall. A dummy can limp after being shot in the leg but crawl if the leg breaks, while a broken arm can hang limp. Those differences let you compare the reactions by watching which movements change."
-      },
-      {
-        "question": "How do you unlock tools in Hyper Realistic Ragdoll?",
-        "answer": "The Roblox description says that more weapons become available as you play, but it does not name the action or milestone needed for a particular unlock. Seeing an item such as the Void Gun on the listing does not tell you whether it is available to you at the start."
+        "answer": "Watch how a dummy gets around after a leg injury. A dummy can limp after a shot to the leg and crawl if the leg breaks. That gives you two movement cues to look for during a session. The Body Scan Guide explains how to check the injury behind the change."
       }
     ],
     "screenshots": [],
@@ -343,7 +318,7 @@
       "boiling-water",
       "codes"
     ],
-    "lastReviewed": "2026-11-19"
+    "lastReviewed": "2026-11-20"
   },
   {
     "enabled": true,
@@ -357,15 +332,15 @@
     "hero": {
       "eyebrow": "Guide",
       "heading": "Hyper Realistic Ragdoll Body Scan Guide",
-      "lead": "Hyper Realistic Ragdoll Body Scan gives you an X-ray view of a dummy’s broken bones. A dummy’s movement gives you a separate clue about which body part reacted. In the game, a dummy can limp after a hit to the leg and crawl after a leg breaks, while a broken arm hangs slack. If you’re looking for the scan input, use any in-game prompt shown for your device. The table pairs body parts with their reactions, and the steps show how to compare what you see in motion with what appears on the scan."
+      "lead": "Hyper Realistic Ragdoll Body Scan gives you an X-ray view of broken bones in Roblox dummies. The Roblox listing describes what the scan shows but gives no activation key. A dummy can limp after a leg shot and crawl after a leg breaks, so its movement gives you two different reactions to watch for. If you see a Body Scan prompt in your session, follow the input it shows for your device. The table and steps below cover limb reactions, where to look for the scan control, and how to compare movement with what appears in the X-ray."
     },
     "sections": [
       {
         "id": "body-scan-shows-broken-bones-in-x-ray",
         "heading": "Body Scan Shows Broken Bones in X-Ray",
-        "intro": "Use Body Scan to inspect a dummy’s bones in an X-ray view. The feature is useful when you want to check for a visible break rather than infer an injury from movement alone. To read the image, choose the body area you want to examine, open the scan, and look for a break shown in that area. For example, if you want to check an arm, focus on the arm in the X-ray and see whether a break is visible. Keep this observation separate from what the dummy does afterward: this section is about reading the scan, while the reaction table explains movement clues.",
+        "intro": "With Body Scan open, look at the part of the dummy you want to check, such as an arm or a leg. Use the X-ray to see whether a break is visible there. If you can tell which side you’re looking at, name it from the dummy’s perspective so another player knows where to look.",
         "paragraphs": [
-          "The scan description confirms that Body Scan shows broken bones, but it does not describe color coding, labels, or a separate indicator for other injury types. Use the visible X-ray as your check for a break, and avoid treating an unclear image as confirmation. Once you have inspected the relevant area, compare the result with the dummy’s reaction using the table below."
+          "Describe the body part first, then say what you can see in that scan. For example, “I can see a break in the dummy’s left arm” gives another player a specific area to check. If you can see a break but can’t tell which side it’s on, “I can see a break in one arm” is precise enough. If the view is unclear, name the area you checked and describe it as unclear."
         ],
         "table": {
           "caption": "Hyper Realistic Ragdoll Body Scan at a Glance",
@@ -376,19 +351,19 @@
           "rows": [
             [
               "Body Scan Shows Broken Bones in X-Ray",
-              "Use Body Scan to inspect a dummy’s bones in an X-ray view."
+              "With Body Scan open, look at the part of the dummy you want to check, such as an arm or a leg."
             ],
             [
               "How Leg, Arm, and Head Injuries Change Dummy Movement",
-              "In Hyper Realistic Ragdoll, each part of a Roblox dummy reacts independently."
+              "Hyper Realistic Ragdoll is a physics sandbox where punches, shots, and blasts affect individual body parts."
             ],
             [
-              "Check Your Device for a Body Scan Prompt",
-              "Open the original Hyper Realistic Ragdoll experience by Emo Playworks on Roblox, then check the controls or prompts displayed during your session."
+              "Look for a Body Scan Prompt on Your Device",
+              "On Roblox, open Hyper Realistic Ragdoll by Emo Playworks."
             ],
             [
-              "Watch the Same Dummy Before and After the Scan",
-              "Pick one dummy and note where it starts relative to a nearby landmark, such as a wall."
+              "Compare a Dummy’s Movement With Its Scan",
+              "Pick one dummy and one body area, such as its left leg."
             ]
           ]
         }
@@ -396,52 +371,57 @@
       {
         "id": "how-leg-arm-and-head-injuries-change-dummy-movement",
         "heading": "How Leg, Arm, and Head Injuries Change Dummy Movement",
-        "intro": "In Hyper Realistic Ragdoll, each part of a Roblox dummy reacts independently. Punches, shots, and blasts can all change how a dummy moves, but the reaction depends on the area affected and what happened to it. For a leg, the key distinction is whether the dummy is still taking steps or has switched to crawling.",
+        "intro": "Hyper Realistic Ragdoll is a physics sandbox where punches, shots, and blasts affect individual body parts. Use the four reactions below to tell whether a change is in the dummy’s gait, in one arm, or in the dummy as a whole.",
         "paragraphs": [
-          "When the reaction is harder to place, look at how much of the dummy’s movement changed. A slack arm is a clue about one limb, while fainting is a whole-dummy response. Use those differences to decide which body area to check, not as proof of a fracture. A head hit that makes a dummy faint, for example, doesn’t by itself tell you that a bone broke."
+          "Keep the two leg reactions separate: a limp changes how the dummy walks, while a crawl replaces walking. Watch the arm itself for an arm injury. A head hit has a different outcome: the dummy faints rather than simply stumbling."
         ],
         "bullets": [
-          "Affected area: Leg. In-game event: A shot hits the leg. Visible response: The dummy walks with a limp.",
-          "Affected area: Leg. In-game event: The leg breaks. Visible response: The dummy crawls instead of walking.",
-          "Affected area: Arm. In-game event: The arm breaks. Visible response: The affected arm hangs slack.",
-          "Affected area: Head. In-game event: A hit lands on the head. Visible response: The dummy faints."
+          "Leg shot: The dummy walks with a limp.",
+          "Leg break: The dummy crawls.",
+          "Arm break: The affected arm hangs limp.",
+          "Head hit: The dummy faints."
         ]
       },
       {
-        "id": "check-your-device-for-a-body-scan-prompt",
-        "heading": "Check Your Device for a Body Scan Prompt",
-        "intro": "Open the original Hyper Realistic Ragdoll experience by Emo Playworks on Roblox, then check the controls or prompts displayed during your session. If a Body Scan prompt appears, follow the on-screen instruction to view the dummy’s broken bones. The available device-specific input mapping is not confirmed here, so use the prompt shown in your current session rather than assuming a particular key or button.",
+        "id": "look-for-a-body-scan-prompt-on-your-device",
+        "heading": "Look for a Body Scan Prompt on Your Device",
+        "intro": "On Roblox, open Hyper Realistic Ragdoll by Emo Playworks. Check the creator name on the experience page before joining so you start in the original game.",
         "paragraphs": [
-          "If you need mappings for other actions, see the Hyper Realistic Ragdoll controls guide when it is available. Return to the same dummy after scanning if you want to compare the X-ray with its visible reaction."
+          "On Roblox, open Hyper Realistic Ragdoll by Emo Playworks. Check the creator name on the experience page before joining so you start in the original game."
+        ],
+        "bullets": [
+          "Once the game loads, look for the words Body Scan on the play screen. If the label appears without an input hint, read any text beside it before trying a control.",
+          "If the prompt shows a keyboard key or controller button, press the one shown. If Body Scan appears as a tappable control on your touchscreen, tap it.",
+          "If the first screen gives no instruction, check for an in-game controls or help panel if one is available. Look for a Body Scan entry that matches the input you’re using.",
+          "If you switch from touch to a controller or another input, check the prompt again before relying on the earlier hint."
         ]
       },
       {
-        "id": "watch-the-same-dummy-before-and-after-the-scan",
-        "heading": "Watch the Same Dummy Before and After the Scan",
-        "intro": "Pick one dummy and note where it starts relative to a nearby landmark, such as a wall. Write down its first reaction before opening Body Scan. After checking the X-ray, find that same dummy again, even if it has moved from its starting spot. If you lose track of it in a group, start a fresh observation rather than using another dummy for the last step.",
+        "id": "compare-a-dummy-s-movement-with-its-scan",
+        "heading": "Compare a Dummy’s Movement With Its Scan",
+        "intro": "Pick one dummy and one body area, such as its left leg. Before you interact, watch how the dummy moves. Note whether it is standing still, walking, or already on the ground. Then make one in-game interaction and watch the same dummy before doing anything else. That gives you a before-and-after comparison without mixing reactions from several interactions.",
         "paragraphs": [
-          "Keep the scan result separate from what the dummy does afterward. If it gets back up or fights back by the time you return, record that as a later action, not as a replacement for what you saw first. Getting up alone doesn’t tell you whether the break you saw is still visible on the scan. If you use a Medkit or Defibrillator to bring the dummy back, note that between observations so you don’t confuse it with the dummy getting up on its own.",
-          "Here’s a sample note you can adapt to what you see:"
+          "If the dummy falls, give it a moment to see whether it gets back up on its own. In your notes, distinguish the first reaction from what happens next: “fell, then stood up” tells you more than “fell.” If you use a Medkit or Defibrillator to bring the dummy back, note that separately so you don’t mistake an assisted recovery for an unassisted one.",
+          "If you can open Body Scan, check the same area you watched and record what you see separately from how the dummy moved. If you never opened the scan, write “not checked” rather than “no break visible.” The first means you didn’t see the X-ray; the second means you looked at that area and didn’t see a break. Use the blank row below for one observation."
         ],
         "bullets": [
-          "First reaction: The dummy started beside a wall and stumbled.",
-          "Scan result: I saw a break in the arm.",
-          "After the scan: The same dummy was back on its feet when I returned."
+          "Body area / Visible reaction / Scan result",
+          "________ / ________ / ________"
         ]
       }
     ],
     "faq": [
       {
-        "question": "Does Body Scan show every kind of limb damage?",
-        "answer": "The X-ray is for looking at broken bones. If you’re trying to understand a change in movement, keep a separate note of what the dummy did. Limping describes how it moved during that moment, while a visible break tells you what appeared in the bone view."
+        "question": "Does Body Scan show broken bones or every kind of limb damage?",
+        "answer": "Broken bones are the findings the Roblox listing names for the X-ray. It leaves open which other kinds of damage the scan can display. If you’re comparing two dummies, record what appears in each scan and describe any difference in how they move alongside it."
       },
       {
         "question": "Which key activates Body Scan?",
-        "answer": "The Roblox description explains the X-ray feature without naming an activation key. If a Body Scan prompt appears during play, follow the input it displays. When sharing that input with another player, include your device so they can compare it with the controls on their own screen."
+        "answer": "The game’s Roblox listing gives no default key for opening the X-ray. If a friend shares a shortcut, ask which device they use and compare it with any Body Scan input shown in your own session before relying on it."
       },
       {
-        "question": "Does a dummy fainting tell me what will appear on Body Scan?",
-        "answer": "Fainting is the dummy’s listed reaction to a head hit. To tell someone what happened, describe the fainting as the reaction you saw, then report any visible break from the X-ray as a separate observation. That gives them both the movement cue and the finding from the scan."
+        "question": "Are there requirements or rewards for using Body Scan?",
+        "answer": "The Roblox listing says new weapons unlock through play. Its Body Scan description covers the X-ray function and gives no scan-specific requirement or reward. If you’re checking progress toward a particular weapon, read that item’s unlock prompt if one appears in your session."
       }
     ],
     "screenshots": [],
@@ -454,7 +434,7 @@
       "banned",
       "updates"
     ],
-    "lastReviewed": "2026-11-19"
+    "lastReviewed": "2026-11-20"
   },
   {
     "enabled": true,
@@ -468,15 +448,15 @@
     "hero": {
       "eyebrow": "Codes",
       "heading": "Hyper Realistic Ragdoll Codes: Status and Redemption Checks",
-      "lead": "There are no officially verified Hyper Realistic Ragdoll codes to redeem right now. There’s no confirmed redemption menu or reward list for the game either. If you find a code elsewhere, open the original Roblox listing and check that the announcement names Emo Playworks’ experience, not another game with a similar title. Follow the developer’s redemption instructions if they publish them, and skip any offer that asks for your Roblox password. The status table and steps below show what’s available now, where to look for an announcement, and when to leave a code untried."
+      "lead": "There are no officially confirmed Hyper Realistic Ragdoll codes to redeem right now. There’s no confirmed redemption menu or code reward for the game, either. If someone shares a code, start with the Roblox listing by Emo Playworks and look for an announcement that names this exact experience. Only try the code through the redemption method the developer specifies, not through a form linked from a repost. The status table and steps below show what you can check now and what to do if an official code appears."
     },
     "sections": [
       {
-        "id": "no-official-reward-codes-are-confirmed",
-        "heading": "No Official Reward Codes Are Confirmed",
-        "intro": "The status below applies to Hyper Realistic Ragdoll by Emo Playworks right now. It doesn’t mean the game has never had codes or that the developer won’t add them later.",
+        "id": "no-officially-confirmed-codes-or-rewards",
+        "heading": "No Officially Confirmed Codes or Rewards",
+        "intro": "An unconfirmed code is not the same as an expired one. A string shared in a post is not proof that Emo Playworks issued it, and the lack of a confirmed code today does not tell you whether the game offered codes in the past.",
         "paragraphs": [
-          "The status below applies to Hyper Realistic Ragdoll by Emo Playworks right now. It doesn’t mean the game has never had codes or that the developer won’t add them later."
+          "An unconfirmed code is not the same as an expired one. A string shared in a post is not proof that Emo Playworks issued it, and the lack of a confirmed code today does not tell you whether the game offered codes in the past."
         ],
         "table": {
           "caption": "Hyper Realistic Ragdoll Codes Verification & Redemption Status",
@@ -508,17 +488,17 @@
           ]
         },
         "bullets": [
-          "Codes: No official reward code is confirmed for players to enter.",
-          "Rewards: No code reward is confirmed. Weapons that unlock through play are separate from code rewards.",
-          "Redemption: There’s no confirmed place to enter a code for this experience."
+          "Codes: No officially confirmed code is available to copy.",
+          "Rewards: There is no confirmed code reward to claim.",
+          "Redemption option: There is no confirmed place to enter a code."
         ]
       },
       {
-        "id": "start-with-the-roblox-listing-by-emo-playworks",
-        "heading": "Start With the Roblox Listing by Emo Playworks",
-        "intro": "Open the official Roblox listing and check the creator name beneath the experience title. The listing for Hyper Realistic Ragdoll credits Emo Playworks. Keep it open while you check a code claim, especially if you found it by searching the game name. https://www.roblox.com/games/101277003916102",
+        "id": "start-with-the-emo-playworks-roblox-listing",
+        "heading": "Start With the Emo Playworks Roblox Listing",
+        "intro": "Open the official Roblox listing at https://www.roblox.com/games/101277003916102 and check that it shows Hyper Realistic Ragdoll by Emo Playworks. If a code post links to a Roblox experience, open that link and compare the destination with the official listing. A similar title or thumbnail is not enough if the link leads to a different experience.",
         "paragraphs": [
-          "A search result with the right title can still point to a different Roblox experience. If a code roundup links to a game, compare its destination with the official listing. Then check who announced the code and which experience the announcement names."
+          "If a repost cites a developer announcement, open the original rather than relying on a screenshot or a copied list. Before treating the post as a code release for this game, check three things:"
         ],
         "steps": [
           {
@@ -535,51 +515,51 @@
           }
         ],
         "bullets": [
-          "If a guide or video quotes an announcement, follow the citation back to the original post. Use the post itself to check who published it and whether it names Hyper Realistic Ragdoll by Emo Playworks or links to the same Roblox listing.",
-          "If the claim comes from a screenshot, a copied quote, or several lists repeating the same code, look for a link to the developer's post. Leave the code untried until you can trace it back to Emo Playworks."
+          "Game: The announcement names Hyper Realistic Ragdoll. If it includes an experience link, that link leads to the Emo Playworks listing above.",
+          "Code: The announcement gives the exact code, and it matches what the repost claims.",
+          "Claim instructions: The announcement explains how to claim the code. If those directions appear only in the repost, don't treat them as the developer's instructions."
         ]
       },
       {
-        "id": "only-use-the-redemption-route-the-developer-names",
-        "heading": "Only Use the Redemption Route the Developer Names",
-        "intro": "If Emo Playworks releases a reward code, read the instructions that come with it before trying to redeem it. The code tells you what to enter; the instructions should tell you where to enter it and whether any conditions apply.",
+        "id": "use-the-redemption-method-named-in-the-announcement",
+        "heading": "Use the Redemption Method Named in the Announcement",
+        "intro": "If Emo Playworks releases a code for Hyper Realistic Ragdoll, read the full announcement before trying to claim it. If the post gives you a code but doesn't tell you where to enter it, wait for official instructions rather than guessing.",
         "paragraphs": [
-          "If Emo Playworks releases a reward code, read the instructions that come with it before trying to redeem it. The code tells you what to enter; the instructions should tell you where to enter it and whether any conditions apply."
+          "If Emo Playworks releases a code for Hyper Realistic Ragdoll, read the full announcement before trying to claim it. If the post gives you a code but doesn't tell you where to enter it, wait for official instructions rather than guessing."
         ],
         "bullets": [
-          "Check where the announcement sends you. If it names a specific redemption screen, follow the directions to that screen. If it gives you a code but doesn't say where it goes, leave it untried rather than testing it in an unrelated text box.",
-          "Make sure the named screen is available to you. If the announcement gives a start time or another requirement, check that you meet it before trying. If the screen still isn't available, stop there instead of looking for a substitute.",
-          "Enter the code exactly as posted once you reach the screen the developer named. Keep the capitalization and punctuation as written. If you copy and paste it, check that you haven't picked up a leading or trailing space.",
-          "If the code is rejected, compare your entry with the original and check any deadline or eligibility rules in the announcement. If those checks don't explain the rejection, wait for the developer to clarify rather than trying variations of the code."
+          "Read the claim conditions first. Check who can redeem the code and when, if the announcement gives an eligibility rule or a claim window.",
+          "Open the exact redemption destination named in the post. If the developer gives more than one step to reach it, follow those steps in order.",
+          "Copy only the code itself. Keep the capitalization and any punctuation that belongs to the code, but leave out surrounding quotation marks and extra spaces.",
+          "Submit it once and read the result before entering it again. If the result confirms that the claim went through, you're done."
         ]
       },
       {
-        "id": "skip-code-offers-that-ask-for-a-password-or-download",
-        "heading": "Skip Code Offers That Ask for a Password or Download",
-        "intro": "Close any reward page that asks for your Roblox password, a one-time sign-in code, or a download before it shows you the offer. Apply the same check if someone sends the offer in a direct message and asks you to reply with account details.",
+        "id": "if-an-official-code-fails-check-the-message-first",
+        "heading": "If an Official Code Fails, Check the Message First",
+        "intro": "If a future Hyper Realistic Ragdoll code doesn't work, check what happened after you submitted it. A message that explicitly rejects the code tells you the attempt was declined. No message at all leaves the result unclear. Neither tells you the code expired unless the message or announcement says so.",
         "paragraphs": [
-          "If a link looks suspicious, leave it unopened and launch Roblox directly from the app you already use. If the link has already opened a page that looks like a Roblox sign-in screen, close that tab and start a fresh session through your usual Roblox entry point."
+          "If a future Hyper Realistic Ragdoll code doesn't work, check what happened after you submitted it. A message that explicitly rejects the code tells you the attempt was declined. No message at all leaves the result unclear. Neither tells you the code expired unless the message or announcement says so."
         ],
         "bullets": [
-          "Password prompt. Close the page if it says you need to sign in again to reveal the code or check whether your account qualifies for a reward.",
-          "Sign-in code request. Keep any code sent to your email or shown in your authenticator private, even if the offer calls it a verification step.",
-          "Required download. Leave if the offer asks you to install a browser extension, open a downloaded file, or add a separate tool to unlock the reward. Cancel any download the page starts.",
-          "Script presented as a reward code. Skip any offer that tells you to paste a script into a tool or run a command to claim an item."
+          "Compare the entry with the code in the developer's announcement. Look for a missing character, a letter in the wrong case, or an extra space from copying. If you spot a mismatch, correct it before trying again.",
+          "If the announcement gives a deadline, check whether it has passed, including the time zone if one is listed. If it sets eligibility rules, check whether the account you're using meets them.",
+          "If the message gives a reason, use it to decide what to do next. If it gives no reason, or no result appears at all, check the announcement for a follow-up before resubmitting. Don't assume a reward was granted."
         ]
       }
     ],
     "faq": [
       {
+        "question": "Do I need a code to unlock new weapons?",
+        "answer": "You can unlock new weapons by playing. The official Roblox description lists weapon unlocks as part of play, so a post promising a weapon through a code is making a separate claim. If your goal is to unlock a particular item, start by checking its requirements in the game."
+      },
+      {
         "question": "Does Roblox.com have a code redemption page for this game?",
-        "answer": "The official Roblox link for Emo Playworks’ game opens its experience listing, not a code entry form. Don’t assume a separate Roblox redemption page accepts a code for this experience. Use a web form only if the developer’s announcement specifically directs players there."
+        "answer": "The Roblox link for this experience opens its game listing, not a game-specific code form. A link to a general Roblox redemption page does not tell you whether it accepts codes for this experience. Use a browser-based method only if Emo Playworks names it in a code announcement for the game."
       },
       {
-        "question": "Why might a Hyper Realistic Ragdoll code fail?",
-        "answer": "A failed attempt doesn’t tell you whether the code expired or was ever meant for this game. If a developer announcement accompanies the code, check it for any stated deadline or eligibility rule. If there’s no announcement, a failed entry isn’t enough to call the code expired."
-      },
-      {
-        "question": "Can codes grant free rewards in Hyper Realistic Ragdoll?",
-        "answer": "There’s no confirmed code reward to claim. If you’re trying to get another weapon, the game’s Roblox description says new weapons unlock as you play. That gives you a way to work toward more weapons without relying on a code, but it doesn’t establish a code reward for any specific weapon."
+        "question": "What should I do if a code site asks for my Roblox password?",
+        "answer": "Close the page without entering your password or a one-time sign-in code. If you need to sign in to check the game, open Roblox directly instead of following the offer’s login link. If you already shared your password, change it through Roblox rather than through the site that requested it."
       }
     ],
     "screenshots": [],
@@ -590,7 +570,7 @@
       "maps",
       "beginner-guide"
     ],
-    "lastReviewed": "2026-11-19"
+    "lastReviewed": "2026-11-20"
   },
   {
     "enabled": true,
@@ -604,15 +584,15 @@
     "hero": {
       "eyebrow": "Guide",
       "heading": "Hyper Realistic Ragdoll Controls Guide",
-      "lead": "For Hyper Realistic Ragdoll controls, start with the action prompts shown on your device if you can join the Roblox experience. The official listing confirms dummy grabbing, swinging, throwing, and Body Scan, and leaves keyboard and touch mappings unspecified. For each prompt you find, try the displayed input once and check whether the action you selected actually happens. Look for the X-ray view when checking Body Scan, and check for a separate use prompt when you equip a tool. The table and steps below pair each action with a visible result you can use to check the input."
+      "lead": "To check Hyper Realistic Ragdoll controls, follow any action prompt shown in the Roblox session on the device you’re using. The game description confirms dummy grabbing, swinging, throwing, and Body Scan, but doesn’t list PC bindings or touch gestures for those actions. If a grab prompt appears, try it on one dummy and check for a separate throw prompt once you have hold of it. For equipment, check the item’s unlock or equip instructions before trying to use it. The table and steps below separate the actions you can try from the inputs you need to check on your device."
     },
     "sections": [
       {
-        "id": "check-grab-swing-throw-and-body-scan-by-their-results",
-        "heading": "Check Grab, Swing, Throw, and Body Scan by Their Results",
-        "intro": "Check grab first, then test swing and throw separately while holding a dummy. A successful grab tells you which input picks up the dummy, not how to move or release it. Test Body Scan separately: opening the X-ray view and finding a broken bone in it are two different checks.",
+        "id": "grab-swing-throw-and-body-scan-what-to-check",
+        "heading": "Grab, Swing, Throw, and Body Scan: What to Check",
+        "intro": "Start with one dummy so you can tell what each action does to the same target. Before trying to swing or throw it, check whether using the grab input leaves the dummy in your hold. Once it’s held, pay attention to whether it moves while staying in your grip or travels away after release. That’s the difference to look for when testing a swing versus a throw.",
         "paragraphs": [
-          "Check grab first, then test swing and throw separately while holding a dummy. A successful grab tells you which input picks up the dummy, not how to move or release it. Test Body Scan separately: opening the X-ray view and finding a broken bone in it are two different checks."
+          "Start with one dummy so you can tell what each action does to the same target. Before trying to swing or throw it, check whether using the grab input leaves the dummy in your hold. Once it’s held, pay attention to whether it moves while staying in your grip or travels away after release. That’s the difference to look for when testing a swing versus a throw."
         ],
         "table": {
           "caption": "Hyper Realistic Ragdoll Controls at a Glance",
@@ -622,84 +602,82 @@
           ],
           "rows": [
             [
-              "Check Grab, Swing, Throw, and Body Scan by Their Results",
-              "Check grab first, then test swing and throw separately while holding a dummy."
+              "Grab, Swing, Throw, and Body Scan: What to Check",
+              "Start with one dummy so you can tell what each action does to the same target."
             ],
             [
-              "Read Keyboard and Touch Prompts in Your Own Session",
-              "Start with the original Hyper Realistic Ragdoll listing on Roblox."
+              "Check Whether Equipment Is Unlocked Before Testing Its Input",
+              "Start with a weapon you already have in Hyper Realistic Ragdoll."
             ],
             [
-              "Check Equipment Selection and Use Separately",
-              "Hyper Realistic Ragdoll unlocks more weapons as you play."
+              "Test Medkit and Defibrillator Use on a Downed Dummy",
+              "Both the Medkit and the Defibrillator can revive dummies in Hyper Realistic Ragdoll, but dummies can also get back up without either tool."
             ],
             [
-              "Check Dummy Recovery With a Medkit or Defibrillator",
-              "Both the Medkit and the Defibrillator can revive dummies in Hyper Realistic Ragdoll."
+              "Check Inputs Separately on Keyboard and Touch",
+              "Open the original Hyper Realistic Ragdoll experience on Roblox by Emo Playworks."
             ]
           ]
         },
         "bullets": [
-          "Action: Grab. Prompt to look for: If a prompt appears for grabbing the dummy, follow it before trying to swing. Visible result: The dummy is now in your grasp; movement on its own does not count as a grab.",
-          "Action: Swing. Prompt to look for: If a swing prompt appears while you are holding the dummy, follow that prompt. Visible result: The dummy swings while still in your grasp. It does not need to leave your hold.",
-          "Action: Throw. Prompt to look for: If the game shows a throw prompt while you have the dummy in your grasp, use that input. Visible result: The dummy leaves your hold and travels away. A swing that keeps the dummy in your grasp does not count.",
-          "Action: Body Scan. Prompt to look for: If you see a Body Scan prompt, follow it to open the scan. Visible result: The X-ray view opens. Use that change on screen to check the input, rather than looking for a change in how the dummy moves."
+          "Grab — Takes hold of a dummy. With nothing in your grip, check whether the screen shows an input labeled Grab. If it does, use it and check that the dummy is held before moving on.",
+          "Swing — Moves the dummy while you’re still holding it. Look for any instruction about moving a held dummy, then watch whether it follows the motion without leaving your grip.",
+          "Throw — Sends the dummy away from your grip. If a throw instruction appears while you’re holding the dummy, follow it and watch whether the dummy travels away rather than just shifting in your hold.",
+          "Body Scan — Shows broken bones in an X-ray view. Look for an instruction labeled Body Scan rather than assuming the grab input opens it."
         ]
       },
       {
-        "id": "read-keyboard-and-touch-prompts-in-your-own-session",
-        "heading": "Read Keyboard and Touch Prompts in Your Own Session",
-        "intro": "Start with the original Hyper Realistic Ragdoll listing on Roblox. Check that the creator is Emo Playworks before joining. Once in the experience, pick one action to check and keep a short note so you can refer to the exact input later.",
+        "id": "check-whether-equipment-is-unlocked-before-testing-its-input",
+        "heading": "Check Whether Equipment Is Unlocked Before Testing Its Input",
+        "intro": "Start with a weapon you already have in Hyper Realistic Ragdoll. New weapons unlock as you play, but the game description does not give specific unlock requirements or an order. Seeing the Katana or Void Gun named there does not tell you whether either one is available to equip in your session.",
         "paragraphs": [
-          "If no prompt appears, make a note of where you were looking for it and leave the input undecided. If a prompt appears but nothing visibly changes, check that you copied the label and input correctly, then try it again on its own. Keep “prompt shown, no visible result” separate from a mapping that worked.",
-          "If you can join on a second device, check the same action using that device's interface. Keep a separate note for each device rather than assuming that a keyboard input has a matching touch control."
+          "Start with a weapon you already have in Hyper Realistic Ragdoll. New weapons unlock as you play, but the game description does not give specific unlock requirements or an order. Seeing the Katana or Void Gun named there does not tell you whether either one is available to equip in your session."
         ],
         "bullets": [
-          "Device: Note what you're playing on and whether you're using a keyboard or touch.",
-          "Action label: Copy the wording on screen so you can identify the same action later.",
-          "Displayed input: Write down the key shown or describe the touch icon and where it appears.",
-          "Result: Note what changed on screen, if anything, after you used that input."
+          "Check access. Pick one item you already have. If the game shows that the weapon you want is locked, switch to an available item so you can test equipment controls without waiting for that unlock.",
+          "Equip the item. Follow any equip instruction shown for the weapon you picked. Check that it is equipped before moving on. If you cannot equip it, you have not reached the point where you can test its use input.",
+          "Check how to use it. Once the item is equipped, look for an instruction that describes using it rather than selecting it. Follow that instruction if one appears. An input that equips the item does not, by itself, tell you how to use it."
         ]
       },
       {
-        "id": "check-equipment-selection-and-use-separately",
-        "heading": "Check Equipment Selection and Use Separately",
-        "intro": "Hyper Realistic Ragdoll unlocks more weapons as you play. Start with an item you can already access, such as the Katana or Void Gun if either is available in your session. Checking one item at a time makes it easier to tell which piece of equipment responds to the input.",
+        "id": "test-medkit-and-defibrillator-use-on-a-downed-dummy",
+        "heading": "Test Medkit and Defibrillator Use on a Downed Dummy",
+        "intro": "Both the Medkit and the Defibrillator can revive dummies in Hyper Realistic Ragdoll, but dummies can also get back up without either tool. To tell the difference, watch one downed dummy before you use anything and note whether it gets up before or after your input.",
         "paragraphs": [
-          "The Roblox listing does not give a keyboard key or touch button for using equipment. Use the prompt shown for the item you have active, if one appears."
+          "Both the Medkit and the Defibrillator can revive dummies in Hyper Realistic Ragdoll, but dummies can also get back up without either tool. To tell the difference, watch one downed dummy before you use anything and note whether it gets up before or after your input."
         ],
         "bullets": [
-          "Choose the item and follow any selection prompt that appears. Check whether the game shows the intended item as active before continuing.",
-          "If you cannot select the item, try one you already have access to. Return to your original choice once you can select it.",
-          "With the intended item active, follow its use prompt once and watch how the item responds. If you see no use prompt, leave the input for that item undetermined."
+          "Pick one tool you already have and keep the same dummy in view. If the dummy gets up before you act, set that attempt aside: you saw it recover, but you didn’t test the tool.",
+          "If the dummy is still down and the tool shows a use instruction, follow it once while watching that dummy. If it gets up afterward, the timing is consistent with a revive, but it doesn’t prove the tool caused it.",
+          "If the dummy stays down, don’t assume the displayed input is wrong based on one attempt. If you want to compare the two tools, try the other one on a downed dummy in a separate attempt so you can see what happens after each input."
         ]
       },
       {
-        "id": "check-dummy-recovery-with-a-medkit-or-defibrillator",
-        "heading": "Check Dummy Recovery With a Medkit or Defibrillator",
-        "intro": "Both the Medkit and the Defibrillator can revive dummies in Hyper Realistic Ragdoll. Try one tool at a time on a dummy that's still down. Dummies can also get up on their own, so the key detail is whether the dummy starts to rise before or after you use the tool.",
+        "id": "check-inputs-separately-on-keyboard-and-touch",
+        "heading": "Check Inputs Separately on Keyboard and Touch",
+        "intro": "Open the original Hyper Realistic Ragdoll experience on Roblox by Emo Playworks. Pick one action to check, then keep the same target and input method for both attempts. Look for a prompt that names the action you want, rather than assuming a nearby prompt applies to it.",
         "paragraphs": [
-          "Getting up immediately after the input is a useful sign, but timing alone doesn't prove the tool caused the recovery. If the dummy was already starting to rise before you pressed or tapped, wait for another chance to try the tool rather than counting that attempt."
+          "Open the original Hyper Realistic Ragdoll experience on Roblox by Emo Playworks. Pick one action to check, then keep the same target and input method for both attempts. Look for a prompt that names the action you want, rather than assuming a nearby prompt applies to it."
         ],
         "bullets": [
-          "Before using the tool, note whether the dummy is still down or already starting to get up.",
-          "If the game displays a use prompt for the Medkit or Defibrillator, follow it once while watching the same dummy.",
-          "Check what happens immediately afterward. If the dummy stays down, don't count that attempt as a successful revival."
+          "Keyboard: If the action prompt shows a key, note the key and press it as directed. Watch for the named action, then repeat the test on the same target without switching to touch.",
+          "Touch: If you're already in the experience using touch, look for an on-screen button identified with that action. If one appears, note its label or icon, tap it as directed, then repeat on the same target without switching to a keyboard.",
+          "Read the result: No prompt means you didn't see a control for that action in your current setup. A prompt followed by no visible response means you saw an input but didn't observe the action. Neither result tells you what key or button to use on another device."
         ]
       }
     ],
     "faq": [
       {
-        "question": "Can you swing a dummy without throwing it?",
-        "answer": "Swinging and throwing are both supported interactions with dummies. If you want to check the swing input, watch whether the dummy moves while you still have hold of it. Save the throw for a separate attempt so you can tell which action produced the motion you saw."
+        "question": "Does the same grab input work on dummies and loose objects?",
+        "answer": "Dummy grabbing, swinging, and throwing are listed interactions, but that doesn’t establish how loose objects behave. If you’re trying to learn what a grab input does, start with a dummy. A loose object that doesn’t respond is not a reliable way to tell whether you used the wrong input."
       },
       {
-        "question": "What does Body Scan show after it opens?",
-        "answer": "Body Scan gives you an X-ray view that can reveal broken bones in a dummy. If you opened it to inspect a particular limb, look for a visible break in that area. A change in the dummy's movement can help you decide where to look first."
+        "question": "How can I tell whether I opened Body Scan?",
+        "answer": "Look for the X-ray view. Body Scan lets you see broken bones, so use it to inspect a dummy rather than relying on how the dummy moves. If you only see the dummy change posture in the ordinary play view, that movement alone doesn’t tell you that the scan opened."
       },
       {
-        "question": "Can a dummy get back up on its own?",
-        "answer": "Dummies can get back up as part of their normal behavior. If you want to see whether that happens, pause before using a recovery item and watch the same dummy. If it stands while you're waiting, you can observe that recovery without using an equipment control."
+        "question": "Is using a revive tool the same as respawning your character?",
+        "answer": "Medkit and Defibrillator are described as ways to bring dummies back. That’s a different task from returning your own character to play. If you’re looking for a player respawn control, don’t use the appearance of either tool as a cue that it will respawn your character."
       }
     ],
     "screenshots": [],
@@ -711,7 +689,7 @@
       "assault-rifle",
       "beginner-guide"
     ],
-    "lastReviewed": "2026-11-19"
+    "lastReviewed": "2026-11-20"
   },
   {
     "enabled": true,
@@ -725,15 +703,16 @@
     "hero": {
       "eyebrow": "Guide",
       "heading": "Hyper Realistic Ragdoll Maps and Areas Guide",
-      "lead": "Use this Hyper Realistic Ragdoll maps guide to find the landmarks and encounters named for the Roblox experience, including the graveyard, the Fight Ring, and the giant fan. The Roblox listing names features but does not give a total map count or show how the landmarks connect. The graveyard is the named location for rising zombies, while walls, towers, and trees are examples of scenery that can break apart. When exploring, note the last landmark you can recognize before moving toward a new one. The tables below separate landmarks, hazards, wildlife, and vehicles, and the steps show how to retrace your own route."
+      "lead": "Use this Hyper Realistic Ragdoll maps guide to look up the graveyard, Fight Ring, environmental machines, and disasters by name. The Roblox listing names these features but does not give a map count or show how the areas connect. Zombies rise from the graveyard, while walls, towers, and trees can break apart. When exploring, use a landmark you can recognize again rather than relying on a disaster or a breakable object to mark your way back. The table and steps below group features by activity and show how to record a route as you explore."
     },
     "sections": [
       {
-        "id": "use-the-landmark-index-to-plan-your-own-route",
-        "heading": "Use the Landmark Index to Plan Your Own Route",
-        "intro": "Use the index to identify named features in Emo Playworks’ Roblox experience. The entries are grouped by feature, so their order tells you which names to look for but gives no information about distance or the order you’ll encounter them. For a walkthrough of how to play, see the Hyper Realistic Ragdoll Beginner Guide.",
+        "id": "choose-an-activity-before-plotting-a-route",
+        "heading": "Choose an Activity Before Plotting a Route",
+        "intro": "Pick one thing you want to see before setting off. In Hyper Realistic Ragdoll, dummies react to in-game impacts part by part. If you want to see how an impact affects movement, find a dummy, watch how it moves before the interaction, then notice which part reacts and how that changes its movement. If you’re exploring instead, use the activity tables below to pick one feature to look for.",
         "paragraphs": [
-          "Use the index to identify named features in Emo Playworks’ Roblox experience. The entries are grouped by feature, so their order tells you which names to look for but gives no information about distance or the order you’ll encounter them. For a walkthrough of how to play, see the Hyper Realistic Ragdoll Beginner Guide."
+          "The Emo Playworks listing on Roblox is the entry for the whole experience. A name such as Fight Ring identifies a feature inside it. Use that name as a destination label, then make a route note from the path you actually walk.",
+          "Keep the note short: Start: the spot where I began walking; Reference: what I could see where I turned; Destination: the feature I reached. Add a reference only where it helps you make a choice, such as which way to go when the path splits. If you spot your destination from a distance, keep going until you find the approach before logging it as reached. On the way back, check what your reference looks like from the other side and add that detail if it’s easier to recognize."
         ],
         "table": {
           "caption": "Hyper Realistic Ragdoll Maps at a Glance",
@@ -743,84 +722,82 @@
           ],
           "rows": [
             [
-              "Use the Landmark Index to Plan Your Own Route",
-              "Use the index to identify named features in Emo Playworks’ Roblox experience."
+              "Choose an Activity Before Plotting a Route",
+              "Pick one thing you want to see before setting off."
             ],
             [
-              "Graveyard, Fight Ring, and Machines to Look For",
-              "If you’re looking for zombies, make the graveyard your target: it’s where they rise."
+              "Graveyard Zombies, Wildlife, and Drivable Vehicles",
+              "Head for the graveyard if you want to see zombies emerge."
             ],
             [
-              "Breakable Scenery and Named Disasters",
-              "If you want a visible reference point while exploring Hyper Realistic Ragdoll, pick a wall, tower, or tree you can see."
+              "The Fight Ring, Giant Fan, Rocket, Cannon, and Crusher",
+              "The Fight Ring is listed separately from the four machines in Hyper Realistic Ragdoll."
             ],
             [
-              "Wildlife to Look For and Vehicles You Can Drive",
-              "Use the wildlife checklist if you’re exploring to spot an animal, and the vehicle checklist if you’re looking for something to drive."
+              "Tornado, Tsunami, and Meteor Rain Are Events, Not Waypoints",
+              "In Hyper Realistic Ragdoll, Tornado, Tsunami, and Meteor Rain are disaster events."
             ]
           ]
-        },
+        }
+      },
+      {
+        "id": "graveyard-zombies-wildlife-and-drivable-vehicles",
+        "heading": "Graveyard Zombies, Wildlife, and Drivable Vehicles",
+        "intro": "Head for the graveyard if you want to see zombies emerge. Of the entries below, it's the only one that pairs a named place with a specific encounter. The wildlife entries tell you what to look for, but not where or when each creature appears.",
+        "paragraphs": [
+          "If you spot a creature while heading somewhere else, keep the sighting separate from your destination in your notes. For example, seeing a crocodile on one visit gives you a place to check again, but it doesn't mean the crocodile will be there next time.",
+          "For driving details, see the Hyper Realistic Ragdoll Vehicles Guide."
+        ],
         "bullets": [
-          "Pick one feature from the index before you set out. Keep its name handy so you can distinguish your destination from the landmarks you use along the way.",
-          "Describe where you begin in your current session using a detail you can recognize on the way back. If several objects look alike, add a second detail that helps you tell your starting spot apart.",
-          "Record recognizable stops in the order you pass them. At a turn, add a note about the way you came in so you can recognize it when you return.",
-          "Read your stops from last to first to retrace your route. At each stop, use your notes to work out how to get back to the previous one."
+          "Destination: Graveyard. Watch for zombies emerging there.",
+          "Wildlife: Shark.",
+          "Wildlife: Crocodile.",
+          "Wildlife: Giant spider.",
+          "Wildlife: T-Rex.",
+          "Driving: Car, Monster Truck, and Battle Tank. Treat these as vehicles to try, not as destinations or shortcuts between areas."
         ]
       },
       {
-        "id": "graveyard-fight-ring-and-machines-to-look-for",
-        "heading": "Graveyard, Fight Ring, and Machines to Look For",
-        "intro": "If you’re looking for zombies, make the graveyard your target: it’s where they rise. The Fight Ring is a separate feature, but its location and how to enter it aren’t stated.",
+        "id": "the-fight-ring-giant-fan-rocket-cannon-and-crusher",
+        "heading": "The Fight Ring, Giant Fan, Rocket, Cannon, and Crusher",
+        "intro": "The Fight Ring is listed separately from the four machines in Hyper Realistic Ragdoll. Use the names below to tell them apart, especially Rocket and Rocket Launcher: Rocket is listed as a world feature, while Rocket Launcher appears among the weapons and tools.",
         "paragraphs": [
-          "Track each machine by name rather than looking for a single area that contains all four. In particular, the rocket is listed as a world feature, while the Rocket Launcher is listed as a weapon."
+          "If you find one of these features, check whether the game displays an interaction prompt. If one appears, read it before trying a control. The Roblox listing names the features but doesn't say where to find them, how to operate the machines, or what rules apply in the Fight Ring."
         ],
         "bullets": [
-          "Graveyard — Zombie encounter location.",
-          "Fight Ring — Named landmark.",
-          "Giant fan — World feature.",
-          "Rocket — World feature, listed separately from the Rocket Launcher.",
-          "Cannon — World feature.",
-          "Crusher — World feature."
+          "Fight Ring — the ring entry, separate from the four machines.",
+          "Giant Fan — use the full name when looking it up; the listing calls it Giant Fan, not just Fan.",
+          "Rocket — the world feature, not the Rocket Launcher in the weapons list.",
+          "Cannon — a separate machine entry from Rocket.",
+          "Crusher — its own machine entry, separate from Cannon and Giant Fan."
         ]
       },
       {
-        "id": "breakable-scenery-and-named-disasters",
-        "heading": "Breakable Scenery and Named Disasters",
-        "intro": "If you want a visible reference point while exploring Hyper Realistic Ragdoll, pick a wall, tower, or tree you can see. All three can break apart, so don’t rely on a single object to recognize a spot later. If you pass two similar walls, for example, note another feature you can see beside the one you mean. That gives you a second visual cue if the wall breaks.",
+        "id": "tornado-tsunami-and-meteor-rain-are-events-not-waypoints",
+        "heading": "Tornado, Tsunami, and Meteor Rain Are Events, Not Waypoints",
+        "intro": "In Hyper Realistic Ragdoll, Tornado, Tsunami, and Meteor Rain are disaster events. Walls, towers, and trees are objects that can break apart. If one of those events happens while you're exploring, try watching a single object instead of trying to track everything around it.",
         "paragraphs": [
-          "If you came to see a disaster, track it separately from the places you visit. Tornado, Tsunami, and Meteor Rain are event names, not destinations to look up on a map. If you see one, mark it as an encounter rather than treating the spot where you saw it as a destination for your next visit."
+          "Keep the observation separate from your directions. A tower might be easy to spot on the way out, but if it breaks apart, a note that says \"turn at the tower\" may no longer help on the way back. Use another feature you've seen along the route as your main reference, and keep the tower as a secondary clue."
         ],
         "bullets": [
-          "Scenery checklist: Wall, tower, tree. If you’re using one as a reference point, note what distinguishes it from similar objects nearby.",
-          "Disaster checklist: Tornado, Tsunami, Meteor Rain. Check off each event when you see it, regardless of where you are in your route."
-        ]
-      },
-      {
-        "id": "wildlife-to-look-for-and-vehicles-you-can-drive",
-        "heading": "Wildlife to Look For and Vehicles You Can Drive",
-        "intro": "Use the wildlife checklist if you’re exploring to spot an animal, and the vehicle checklist if you’re looking for something to drive. The Roblox listing names these animals and vehicles without saying where to find them.",
-        "paragraphs": [
-          "If you’re exploring with friends, call out the exact name when you spot something. “Monster Truck” tells the group which vehicle you found, while “truck” or “vehicle” can leave someone looking for the wrong thing. For wildlife, note where you saw the animal rather than treating that sighting as a permanent location.",
-          "Once you’ve picked a ride, see the Hyper Realistic Ragdoll Vehicles Guide for vehicle access and driving details."
-        ],
-        "bullets": [
-          "Wildlife to spot: shark, crocodile, giant spider, and T-Rex.",
-          "Vehicles you can drive: car, Monster Truck, and Battle Tank."
+          "Pick one object and note its starting condition. For example, choose a section of wall and check whether it's intact or already missing pieces.",
+          "If a disaster occurs while you're watching, look at that same section afterward. Note whether it looks unchanged, has lost pieces, or is no longer standing.",
+          "Write down what you saw without assuming the same event will affect another wall, tower, or tree the same way. If you lose sight of the object, don't count it as destroyed."
         ]
       }
     ],
     "faq": [
       {
         "question": "How many maps or places are in Hyper Realistic Ragdoll?",
-        "answer": "The Roblox listing identifies Emo Playworks’ experience but does not give a total number of maps. The graveyard and Fight Ring are names to look for while exploring, not entries in a list of separate Roblox places. Counting the named landmarks would tell you how many features are listed, not how many maps you can visit."
+        "answer": "Emo Playworks lists one Roblox experience under this name, but its description does not give a total for maps or places. The graveyard and Fight Ring are names to look for during play, not proof that each has a separate Roblox place or loading screen."
       },
       {
-        "question": "Which animals and vehicles appear in the experience?",
-        "answer": "The shark, crocodile, giant spider, and T-Rex are listed as wildlife. If your goal is to drive something, look instead for the car, Monster Truck, or Battle Tank. Those three are described as drivable, but the listing does not pair them with particular landmarks, so an animal sighting is not a guide to where you can pick up a vehicle."
+        "question": "How can I find my way back to a landmark without coordinates?",
+        "answer": "Once you reach a landmark such as the graveyard, turn around and note what the approach looks like from the destination. If your only reference is a wall, tower, or tree, pick a second cue you actually saw along the way. Those objects can break, so the return trip may not look the same."
       },
       {
-        "question": "How can I find landmarks without verified coordinates?",
-        "answer": "Start with a feature you can name from what you see on screen. If you pass the giant fan, for example, note what you saw immediately before and after it so you can recognize the same stretch on the way back. Pick a second reference if your first is a wall, tower, or tree, since those can break apart."
+        "question": "Is the rocket listed as a drivable vehicle?",
+        "answer": "The listing groups the rocket with the giant fan, cannon, and crusher. It separately names the car, Monster Truck, and Battle Tank as vehicles you can drive. If you are looking for something to drive, start with those three names rather than treating the rocket as another vehicle."
       }
     ],
     "screenshots": [],
@@ -832,7 +809,7 @@
       "bat",
       "body-scan"
     ],
-    "lastReviewed": "2026-11-19"
+    "lastReviewed": "2026-11-20"
   },
   {
     "enabled": true,
@@ -846,16 +823,15 @@
     "hero": {
       "eyebrow": "Updates",
       "heading": "Hyper Realistic Ragdoll Update and Patch Notes",
-      "lead": "The official Roblox description does not give a release date, version number, or list of changes for the latest Hyper Realistic Ragdoll update. It describes game features without saying which build introduced them. Start with the Roblox experience credited to Emo Playworks, and look for a developer announcement that names the change and says when it went live. Treat an undated feature description as a guide to what the game advertises, not as a patch entry. The table and steps below show how to sort feature listings, release claims, and changes you notice while playing."
+      "lead": "The Roblox game description does not give a release date or version number for the latest Hyper Realistic Ragdoll update. It lists features such as drivable vehicles and Body Scan, but it does not say when they were added. Start with the original Emo Playworks listing, then look for a dated announcement that names the change you want to check. Treat a fan guide as a way to identify the feature, not as a record of its release. The table and steps below separate listed features from patch claims and show what to check before calling something new."
     },
     "sections": [
       {
-        "id": "the-roblox-description-does-not-date-the-latest-patch",
-        "heading": "The Roblox Description Does Not Date the Latest Patch",
-        "intro": "The official Roblox description groups Hyper Realistic Ragdoll features by category. It leaves the release order open, so the order of those categories tells you nothing about which features arrived first or what changed in the most recent patch.",
+        "id": "the-game-description-does-not-date-the-latest-patch",
+        "heading": "The Game Description Does Not Date the Latest Patch",
+        "intro": "The Roblox description tells you what Hyper Realistic Ragdoll includes, but it does not identify which features arrived in the latest patch. If a guide or video calls a feature new, read the date next to the post as its publication date. A repost can appear much later than the original, and even a developer announcement may preview a change rather than confirm that it is live.",
         "paragraphs": [
-          "A version label identifies the build or update a set of patch notes refers to. A release date tells you when that build went live for players. The date on an announcement tells you when the developer published the news. A developer can announce a patch ahead of launch or write about it after it goes live.",
-          "A numbered changelog would group specific additions and fixes under their respective versions. The description contains no such entries. To place a change on a timeline, look for patch notes that connect the change to a specific release and state when players received it."
+          "Use these details to decide whether an announcement belongs in a patch timeline:"
         ],
         "table": {
           "caption": "Hyper Realistic Ragdoll Update at a Glance",
@@ -865,76 +841,81 @@
           ],
           "rows": [
             [
-              "The Roblox Description Does Not Date the Latest Patch",
-              "The official Roblox description groups Hyper Realistic Ragdoll features by category."
+              "The Game Description Does Not Date the Latest Patch",
+              "The Roblox description tells you what Hyper Realistic Ragdoll includes, but it does not identify which features arrived in the latest patch."
             ],
             [
-              "Check Release Claims Against the Emo Playworks Listing",
-              "Open the original Hyper Realistic Ragdoll experience on Roblox: https://www.roblox.com/games/101277003916102."
+              "The Listing Names Vehicles, Creatures, and Tools Without Patch Dates",
+              "When a Hyper Realistic Ragdoll update claim names something already on the Roblox listing, check what supposedly changed."
             ],
             [
-              "Advertised Features Are Not a List of Patch Additions",
-              "The Roblox listing describes a physics sandbox where individual parts of a dummy react to impacts."
+              "Dummy Reactions and Body Scan Are Listed Features, Not Patch Notes",
+              "In Hyper Realistic Ragdoll, grab, swing, or throw a dummy and watch how it moves afterward."
             ],
             [
-              "What a Session Can Tell You About a Suspected Fix",
-              "If a dummy gets back up when you expected it to stay down, note whether it stood before or after you used a recovery tool."
+              "Check Multiplayer and Server-List Claims Against the Original Game",
+              "A server list on a Roblox experience page shows the options Roblox presents there."
             ]
           ]
-        }
-      },
-      {
-        "id": "check-release-claims-against-the-emo-playworks-listing",
-        "heading": "Check Release Claims Against the Emo Playworks Listing",
-        "intro": "Open the original Hyper Realistic Ragdoll experience on Roblox: https://www.roblox.com/games/101277003916102. Use the creator credit, Emo Playworks, to make sure an update claim refers to the right experience. A matching game title on its own isn't enough.",
-        "paragraphs": [
-          "Keep the announcement date separate from the rollout date. If a developer says a change went live before the post was published, use the date given for the rollout. If the post says the change is live but gives no rollout date, you can say it was live by the time of the announcement, not that it launched that day."
-        ],
+        },
         "bullets": [
-          "Match the creator. If an update post links to a Roblox experience, open it and check that it points to the Emo Playworks listing above.",
-          "Find the developer's original announcement. If you saw the claim in a repost or screenshot, look for the full post so you can read which experience and specific changes it names.",
-          "Read the wording for each change. “Planned” or “coming soon” does not mean you can play it now. If the same post says one change is live and another is planned, apply each status only to the change it describes."
+          "Release date: Use the date Emo Playworks says the patch went live. If the post gives a future date, treat it as planned timing.",
+          "Version label: Use the developer's wording if a version is named. A fan title such as \"Update 1\" does not establish an official version number.",
+          "Specific change: Record what the announcement says was added, fixed, or adjusted. Leave the feature out of the timeline if it appears only in the game description."
         ]
       },
       {
-        "id": "advertised-features-are-not-a-list-of-patch-additions",
-        "heading": "Advertised Features Are Not a List of Patch Additions",
-        "intro": "The Roblox listing describes a physics sandbox where individual parts of a dummy react to impacts. Its feature categories help you identify the weapon, disaster, or vehicle named in a patch claim. To check the claim, look for the specific change it describes, such as a first appearance, an adjustment, or a return after removal.",
+        "id": "the-listing-names-vehicles-creatures-and-tools-without-patch-dates",
+        "heading": "The Listing Names Vehicles, Creatures, and Tools Without Patch Dates",
+        "intro": "When a Hyper Realistic Ragdoll update claim names something already on the Roblox listing, check what supposedly changed. Adding a vehicle, making it drivable, and changing how players access it are three different claims.",
         "paragraphs": [
-          "The Roblox listing describes a physics sandbox where individual parts of a dummy react to impacts. Its feature categories help you identify the weapon, disaster, or vehicle named in a patch claim. To check the claim, look for the specific change it describes, such as a first appearance, an adjustment, or a return after removal."
+          "For details on the features themselves, see the vehicles guide for driving and access, the weapons guide for equipment, and the maps and areas guide for locations."
         ],
         "bullets": [
-          "Equipment — The Katana is listed as a weapon, and the description says weapons unlock through play. It gives no date for the Katana's debut or any release that changed how players unlock it.",
-          "Scenery and disasters — Tornado is one of the advertised disasters. If a post says an update changed how Tornado affects scenery, the listing gives no before-and-after behavior to compare.",
-          "Vehicles and creatures — The Monster Truck is listed as drivable. If a post claims it returned in a patch, the listing gives no record of an earlier removal or a release that brought it back."
+          "Vehicles: The description lists the car, Monster Truck, and Battle Tank as drivable. A claim that the Battle Tank became drivable in a particular patch needs a dated developer note that names that change.",
+          "Creatures: The listing names the shark, giant spider, and T-Rex, and mentions zombies in the graveyard. A creature appearing in gameplay shows it was present in that session, not when it first appeared.",
+          "Equipment: The listing names the Katana, Minigun, and Void Gun and says players unlock new weapons through play. A claim that the Void Gun's unlock requirement changed needs a note that identifies the new requirement.",
+          "Environmental events: Tornado, Tsunami, and Meteor Rain are listed disasters. The description also mentions breakable walls, towers, and trees. Neither detail establishes that a disaster was added or scheduled for a limited run."
         ]
       },
       {
-        "id": "what-a-session-can-tell-you-about-a-suspected-fix",
-        "heading": "What a Session Can Tell You About a Suspected Fix",
-        "intro": "If a dummy gets back up when you expected it to stay down, note whether it stood before or after you used a recovery tool. The Roblox description says dummies can get back up and separately lists the Medkit and Defibrillator as ways to bring them back. That distinction gives you something concrete to check when someone says a patch changed recovery.",
+        "id": "dummy-reactions-and-body-scan-are-listed-features-not-patch-notes",
+        "heading": "Dummy Reactions and Body Scan Are Listed Features, Not Patch Notes",
+        "intro": "In Hyper Realistic Ragdoll, grab, swing, or throw a dummy and watch how it moves afterward. Body parts can react independently, so movement alone doesn't tell you which bones are broken. The Roblox description gives limping after a leg shot and crawling after a leg break as different examples. Use Body Scan's X-ray to check for a fracture rather than judging by the dummy's gait alone.",
         "paragraphs": [
-          "A repeatable result tells you what happened under those conditions, not whether recovery worked differently before. If the dummy stood before you used a tool, record that as an unassisted recovery. If it stood only after you used one, record the sequence without treating it as proof that the tool was required. Neither observation confirms a fix or ties it to a specific update."
+          "A dummy getting back up on its own is different from being brought back with a Medkit or Defibrillator. If you're checking a claim about recovery, note whether anyone used either tool before the dummy got up."
         ],
         "bullets": [
-          "Before using a tool, note the dummy's starting condition, how long you watched, and whether it got up on its own.",
-          "If the dummy is still down and you use a Medkit or Defibrillator, note which tool you used and what the dummy did afterward.",
-          "Repeat with a dummy in a similar starting condition. Keep the wait before using a tool about the same so a longer observation window doesn't skew the comparison."
+          "To check a claimed physics change, repeat the same in-game interaction with the same starting conditions. Note which body part was affected, how the dummy moved afterward, and whether Body Scan showed a break.",
+          "Report what happens now separately from the claim that a patch changed it. A repeatable result tells you how the game behaves today, not when that behavior started. See the Body Scan guide for the full injury breakdown."
+        ]
+      },
+      {
+        "id": "check-multiplayer-and-server-list-claims-against-the-original-game",
+        "heading": "Check Multiplayer and Server-List Claims Against the Original Game",
+        "intro": "A server list on a Roblox experience page shows the options Roblox presents there. A clip of a menu inside Hyper Realistic Ragdoll shows what was visible in that session. To pin either one to a patch, look for a dated announcement from Emo Playworks that names the specific change.",
+        "paragraphs": [
+          "If your immediate problem is joining a session, see the Status and Access guide. Note whether the experience page fails to open or the error appears after you try to join. That distinction helps you describe the access problem."
+        ],
+        "bullets": [
+          "First, open Hyper Realistic Ragdoll on Roblox and check that Emo Playworks is listed as the creator. If a post includes a screenshot or clip, check for the game title and creator before assuming it shows the original experience.",
+          "Next, narrow down what the post calls multiplayer. Is it pointing to a list on the Roblox page, a menu inside the game, or footage of players sharing a session? If the caption names a weapon or tool, the Weapons and Tools guide can help you identify the item shown.",
+          "Finally, match the claim to the developer's wording. If the announcement describes a change to a server list, keep your account of the patch to that list. A claim that multiplayer launched needs an announcement that explicitly says so."
         ]
       }
     ],
     "faq": [
       {
-        "question": "Where should I look for official Hyper Realistic Ragdoll patch notes?",
-        "answer": "Start with the Roblox experience published by Emo Playworks. If a fan page or video quotes patch notes, follow its link back to the developer's original announcement before relying on the date or change list. The Roblox description itself is a feature guide, not a dated release log."
+        "question": "When was the latest Hyper Realistic Ragdoll update?",
+        "answer": "The Roblox game description does not give a date for the latest patch. If you see a date attached to a fan article, check whether it appears in the developer's announcement or only in the article's header. The article may have been published long after the feature it describes was added."
       },
       {
-        "question": "Does unlocking a weapon mean it was added in a recent update?",
-        "answer": "No. The Roblox description says more weapons unlock through play, so seeing a weapon for the first time can reflect your own progress rather than a change to the game. A release note explicitly naming that weapon as an addition would answer when it was introduced."
+        "question": "Where can I look for official Hyper Realistic Ragdoll patch notes?",
+        "answer": "Start with the [original Roblox experience page](https://www.roblox.com/games/101277003916102) and check that the creator is Emo Playworks. If another site quotes patch notes, follow its link back to the announcement and make sure it names this experience. A matching game title in a search result is not enough to identify the developer's post."
       },
       {
-        "question": "Does a dummy reacting differently mean the physics changed in a patch?",
-        "answer": "Not on its own. The game describes different reactions for different injuries: a dummy can limp after a leg shot and crawl when the leg is broken. Body Scan can show broken bones, so check the injury before treating a change in movement as a sign of a physics update."
+        "question": "How can I tell whether an update detail is confirmed?",
+        "answer": "Check whether the developer's wording matches the specific claim. For example, the Roblox description names the Monster Truck and Battle Tank as drivable vehicles. That tells you how the game describes them, but it does not support the claim that both arrived together. Look for a dated note that explicitly names both additions."
       }
     ],
     "screenshots": [],
@@ -945,7 +926,7 @@
       "assault-rifle",
       "controls"
     ],
-    "lastReviewed": "2026-11-19"
+    "lastReviewed": "2026-11-20"
   },
   {
     "enabled": true,
@@ -959,15 +940,15 @@
     "hero": {
       "eyebrow": "Database",
       "heading": "Hyper Realistic Ragdoll Vehicles Guide",
-      "lead": "Hyper Realistic Ragdoll vehicles documented in the official Roblox description are a car, a Monster Truck, and a Battle Tank. The listing says these vehicles can be driven, but does not provide a complete roster or explain how to find, unlock, or operate each one. To check a vehicle in your session, look for it in the experience and follow any on-screen prompts; the available listing does not confirm specific controls or access conditions. Treat names beyond those three as unconfirmed until you can see them in the game. The sections below separate confirmed vehicles from unverified reports and offer a practical way to check access and interactions."
+      "lead": "The Hyper Realistic Ragdoll vehicles named on the official Roblox listing are the car, Monster Truck, and Battle Tank. All three are described as drivable, but the listing does not give their locations, access requirements, or driving controls. If you can join the Emo Playworks experience, look for a prompt at the vehicle before trying a control from another guide. If you can enter, check whether the game shows driving inputs for your device. The table below lists the three vehicles, and the steps explain how to check access and test basic handling."
     },
     "sections": [
       {
-        "id": "the-car-monster-truck-and-battle-tank-are-the-confirmed-vehicles",
-        "heading": "The Car, Monster Truck, and Battle Tank Are the Confirmed Vehicles",
-        "intro": "The Wild World section of the official Roblox description lists these three as vehicles you can drive. It lists the giant fan, cannon, and other environmental features separately, so those aren't part of the advertised vehicle lineup.",
+        "id": "check-the-vehicle-s-prompt-before-assuming-it-is-locked",
+        "heading": "Check the Vehicle's Prompt Before Assuming It Is Locked",
+        "intro": "Open the official Roblox listing for Hyper Realistic Ragdoll and check that Emo Playworks is named as the creator. Try joining from that page so you're checking vehicle access in the right experience.",
         "paragraphs": [
-          "The description names three drivable options without saying they're the only vehicles in the game."
+          "Open the official Roblox listing for Hyper Realistic Ragdoll and check that Emo Playworks is named as the creator. Try joining from that page so you're checking vehicle access in the right experience."
         ],
         "table": {
           "caption": "Hyper Realistic Ragdoll Vehicles at a Glance",
@@ -977,80 +958,64 @@
           ],
           "rows": [
             [
-              "The Car, Monster Truck, and Battle Tank Are the Confirmed Vehicles",
-              "The Wild World section of the official Roblox description lists these three as vehicles you can drive."
+              "Check the Vehicle's Prompt Before Assuming It Is Locked",
+              "Open the official Roblox listing for Hyper Realistic Ragdoll and check that Emo Playworks is named as the creator."
             ],
             [
-              "Check for a Vehicle and Its Use Prompts in Your Session",
-              "Join Hyper Realistic Ragdoll on Roblox and look for the specific vehicle you want to drive."
+              "Test Moving, Turning, and Stopping One at a Time",
+              "Once you're in the vehicle, pick an open, level stretch if one is available."
             ],
             [
-              "Keep Bikes, Quads, and Jeeps on the Unconfirmed List",
-              "The official Roblox description for Hyper Realistic Ragdoll does not name bikes, quads, or Jeeps as drivable vehicles."
-            ],
-            [
-              "Test Vehicle Interactions Without Assuming Hazard or Knockout Effects",
-              "Pick one vehicle and watch one dummy or scenery object at a time."
+              "Compare a Clear Run With a Run Near a Breakable Object",
+              "Walls, towers, and trees can break apart in Hyper Realistic Ragdoll."
             ]
           ]
         },
         "bullets": [
-          "Car: The description uses the generic name rather than identifying a specific model.",
-          "Monster Truck: Listed as a separate driving option from the car.",
-          "Battle Tank: Listed as drivable, not merely as scenery."
+          "If you can't join: Read any message Roblox shows when you try to launch the experience. Deal with the join message first: it tells you what happened when you tried to enter the game, not whether you can use a particular vehicle.",
+          "If you join but can't find the vehicle: Look around the areas you can reach, or ask another player where they last saw the specific vehicle you're looking for. Not finding it in the area you've checked doesn't mean you need to unlock it.",
+          "If you find the vehicle: Move close enough to see whether an interaction prompt appears. If it names a requirement, follow the wording shown for that vehicle rather than assuming the same requirement applies to the others. If it offers an action without naming a requirement, try the action it displays. If nothing appears, check from another side before moving on. No prompt doesn't mean the vehicle is locked."
         ]
       },
       {
-        "id": "check-for-a-vehicle-and-its-use-prompts-in-your-session",
-        "heading": "Check for a Vehicle and Its Use Prompts in Your Session",
-        "intro": "Join Hyper Realistic Ragdoll on Roblox and look for the specific vehicle you want to drive. The Roblox description leaves vehicle locations, unlock requirements, and driving inputs undocumented.",
+        "id": "test-moving-turning-and-stopping-one-at-a-time",
+        "heading": "Test Moving, Turning, and Stopping One at a Time",
+        "intro": "Once you're in the vehicle, pick an open, level stretch if one is available. Use any driving inputs the game displays and test one action at a time. For each check, note which input you used and what the vehicle actually did. If you can't tell which input performs an action, skip that check rather than counting it as poor handling.",
         "paragraphs": [
-          "Join Hyper Realistic Ragdoll on Roblox and look for the specific vehicle you want to drive. The Roblox description leaves vehicle locations, unlock requirements, and driving inputs undocumented."
+          "If you can enter a second vehicle, repeat the checks on similar ground. Start both from a standstill for the movement check and use a similar pace for the turning and stopping checks. Choose based on what you want to do next: a vehicle that's easier for you to turn may be more useful in a tight space, while one you can stop more predictably may be better when you want to line up with a particular spot."
         ],
         "bullets": [
-          "Approach the vehicle and check whether an interaction prompt appears. If the prompt offers to let you enter or drive, use the input it shows for your device.",
-          "Once you’re in, check the screen again for driving instructions. If the game displays a control hint, try that input and watch for the vehicle’s response.",
-          "If you reach the vehicle without seeing a prompt, treat access as unresolved for that session. For general inputs such as grabbing or using equipment, see the Hyper Realistic Ragdoll Controls Guide."
+          "Move from rest: Use the displayed movement input on its own. Watch whether the vehicle starts moving and in which direction.",
+          "Turn at a low speed: Try the steering input by itself and watch how much the vehicle changes direction.",
+          "Stop on a straight path: Try the displayed stopping input, if there is one. Pick a visible landmark beside your path and note how far the vehicle travels after you give the input."
         ]
       },
       {
-        "id": "keep-bikes-quads-and-jeeps-on-the-unconfirmed-list",
-        "heading": "Keep Bikes, Quads, and Jeeps on the Unconfirmed List",
-        "intro": "The official Roblox description for Hyper Realistic Ragdoll does not name bikes, quads, or Jeeps as drivable vehicles. That does not rule them out, but the listing’s reference to a car does not specifically confirm a Jeep.",
+        "id": "compare-a-clear-run-with-a-run-near-a-breakable-object",
+        "heading": "Compare a Clear Run With a Run Near a Breakable Object",
+        "intro": "Walls, towers, and trees can break apart in Hyper Realistic Ragdoll. For an optional driving comparison, pick an intact wall and see how a pass beside it compares with a run through open space. The wall gives you something to watch besides the vehicle; it doesn't have to break for the comparison to be useful.",
         "paragraphs": [
-          "If you see one of these names in a search result, check that it refers to the Emo Playworks experience before relying on it. Even a mention of the right game does not establish that the vehicle is playable."
-        ]
-      },
-      {
-        "id": "test-vehicle-interactions-without-assuming-hazard-or-knockout-effects",
-        "heading": "Test Vehicle Interactions Without Assuming Hazard or Knockout Effects",
-        "intro": "Pick one vehicle and watch one dummy or scenery object at a time. Note what the object is doing before the vehicle approaches, whether you see contact, and what changes immediately afterward. If a hazard activates or another player intervenes during the same attempt, wait for a clearer moment and try again.",
-        "paragraphs": [
-          "The official Roblox description leaves vehicle-based knockouts, hazard interactions, multiplayer rules, and vehicle performance unspecified. For named environmental features, see the Hyper Realistic Ragdoll Maps and Areas Guide."
+          "If Tornado, Tsunami, or Meteor Rain starts during a pass, set that run aside. A change during a disaster doesn't tell you how the vehicle would behave under the same conditions as the clear run. Repeat the pass after the event if you can match the original setup."
         ],
         "bullets": [
-          "For a dummy, watch whether it shifts position, falls, or gets back up. If it falls, record that visible reaction and watch what it does next before drawing a conclusion about a knockout.",
-          "For scenery, note whether the object moves, breaks apart, or stays in place. Keep your note tied to the specific object and vehicle you observed.",
-          "If you repeat a check, use the same vehicle and a similar starting position. If the result varies, note what else changed, such as nearby player activity or whether you could clearly see the point of contact."
+          "Make the clear run first. Pick a short stretch of open ground and note the line the vehicle follows.",
+          "Use the same vehicle for the pass beside the wall. Start from rest on similar ground and try to match the first run's inputs and distance.",
+          "Note two things separately: whether the vehicle slowed or changed direction, and whether the wall stayed intact or broke apart. Seeing both change during one pass doesn't establish that one caused the other."
         ]
       }
     ],
     "faq": [
       {
-        "question": "Which vehicles are documented in Hyper Realistic Ragdoll?",
-        "answer": "The official Roblox description names a car, a Monster Truck, and a Battle Tank, and says players can drive them. It does not provide a full inventory or details such as vehicle locations, access requirements, or performance."
-      },
-      {
-        "question": "How do you use the car in Hyper Realistic Ragdoll?",
-        "answer": "The official description confirms that the car is drivable, but it does not give a control mapping or explain where to find it. Look for an interaction prompt in your session; see the controls guide for the site's separate coverage of verified input checks."
-      },
-      {
         "question": "Are bikes, quads, and Jeeps available in the game?",
-        "answer": "The supplied official description does not confirm bikes, quads, or Jeeps. Its named drivable vehicles are a car, a Monster Truck, and a Battle Tank, so treat other vehicle names as unconfirmed unless they appear in the experience."
+        "answer": "The Roblox description does not name bikes, quads, or Jeeps. That does not prove they are absent, but it also does not establish that any of them are playable. A generic reference to a car is not enough to identify it as a Jeep."
       },
       {
         "question": "How do you unlock the Battle Tank?",
-        "answer": "The official description names the Battle Tank as drivable but does not state an unlock condition. Check the experience for an access prompt or requirement rather than assuming it unlocks through play; the listing specifically mentions progression unlocks for weapons, not vehicles."
+        "answer": "The listing describes the Battle Tank as drivable but gives no tank-specific unlock requirement. It does say that new weapons unlock through play, but that statement is about weapons. It does not establish that the tank follows the same progression or that it needs to be unlocked at all."
+      },
+      {
+        "question": "Does knocking a dummy down with a vehicle count as a knockout?",
+        "answer": "A fall alone does not show that the game awarded a knockout. Dummies can get back up on their own, and the vehicle description does not say that driving earns knockouts. If the game displays a knockout notification or counter, use that to distinguish a recorded knockout from a dummy simply falling over."
       }
     ],
     "screenshots": [],
@@ -1061,7 +1026,7 @@
       "updates",
       "bat"
     ],
-    "lastReviewed": "2026-11-19"
+    "lastReviewed": "2026-11-20"
   },
   {
     "enabled": true,
@@ -1075,15 +1040,16 @@
     "hero": {
       "eyebrow": "Guide",
       "heading": "Hyper Realistic Ragdoll Assault Rifle Guide",
-      "lead": "The Hyper Realistic Ragdoll assault rifle is absent from the weapons named on the official Roblox listing, and the listing gives no rifle-specific unlock requirement or controls. If you can join, look for the exact item name in Emo Playworks’ experience before following an unlock route. The listing says new weapons unlock through play, so use any requirement shown on the item itself to decide what to do next. If you can select it, follow the prompts shown in your session. The table and steps below cover how to check the item name, read an unlock requirement, and find the controls."
+      "lead": "The official Roblox description does not name a Hyper Realistic Ragdoll assault rifle or give an unlock requirement for it. It says new weapons unlock through play, but that does not establish where this item fits or whether it is available. In Emo Playworks' experience, look for the exact item name and read any requirement shown beside it. If you can select the item, follow the controls displayed in your session. The checks below separate finding the item, reading its unlock condition, and seeing whether you can equip it."
     },
     "sections": [
       {
-        "id": "check-the-exact-item-name-in-the-emo-playworks-experience",
-        "heading": "Check the Exact Item Name in the Emo Playworks Experience",
-        "intro": "On Roblox, open the listing titled Hyper Realistic Ragdoll and check that the creator credit reads Emo Playworks. If you see similar titles in search, use the creator credit to pick the right experience before comparing equipment names.",
+        "id": "the-roblox-description-does-not-name-the-assault-rifle",
+        "heading": "The Roblox Description Does Not Name the Assault Rifle",
+        "intro": "The Hyper Realistic Ragdoll description on Roblox highlights six weapons by name: Katana, Sniper, Minigun, Rocket Launcher, Flamethrower, and Void Gun. It also mentions other weapons without naming them, so those six are examples, not a complete inventory. Leaving the assault rifle off that list doesn't tell you whether it's in the game.",
         "paragraphs": [
-          "Once you join, compare the full name shown on each visible equipment entry with “Assault Rifle.” Use the written label rather than the icon or the item’s appearance to decide whether it matches."
+          "The names aren't presented as an unlock order. The description ties new weapons to play in general, but it doesn't say whether the assault rifle has a prerequisite or where it would fall in that progression.",
+          "If you spot a rifle-shaped weapon in a screenshot or clip, don't assume it's the assault rifle or that the listed Sniper is another name for it. Use the item's in-game name rather than its appearance to tell them apart."
         ],
         "table": {
           "caption": "Hyper Realistic Ragdoll Assault Rifle at a Glance",
@@ -1093,86 +1059,69 @@
           ],
           "rows": [
             [
-              "Check the Exact Item Name in the Emo Playworks Experience",
-              "On Roblox, open the listing titled Hyper Realistic Ragdoll and check that the creator credit reads Emo Playworks."
+              "The Roblox Description Does Not Name the Assault Rifle",
+              "The Hyper Realistic Ragdoll description on Roblox highlights six weapons by name: Katana, Sniper, Minigun, Rocket Launcher, Flamethrower, and Void…"
             ],
             [
-              "Use the Item’s Displayed Requirement to Plan an Unlock",
-              "Hyper Realistic Ragdoll unlocks new weapons as you play."
+              "Look for the Exact Item Name and Unlock Prompt",
+              "On Roblox, check that the Hyper Realistic Ragdoll listing credits Emo Playworks before you join."
             ],
             [
-              "Follow the Prompts for Selecting and Using the Item",
-              "Start with the exact item entry in a selectable state."
-            ],
-            [
-              "Dummy Movement Shows the Effect of an In-Game Impact",
-              "Once the item is available in your session, you can compare how a dummy moves before and after one in-game action."
+              "What a Dummy's Reaction Can Tell You",
+              "In Hyper Realistic Ragdoll, a dummy's body parts react independently to in-game impacts."
             ]
           ]
-        },
-        "bullets": [
-          "Exact name appears: If an entry reads “Assault Rifle,” you’ve found a match in your session. Use that entry when you look up information about the item.",
-          "Different name appears: If the entry says “Sniper” or uses another name, treat it as a separate item. A similar-looking model doesn’t make it the item you’re looking for.",
-          "No matching name appears: If none of the equipment you can see is labeled “Assault Rifle,” the item isn’t visible in your current session. That alone doesn’t tell you whether it exists elsewhere in the experience."
-        ]
+        }
       },
       {
-        "id": "use-the-item-s-displayed-requirement-to-plan-an-unlock",
-        "heading": "Use the Item’s Displayed Requirement to Plan an Unlock",
-        "intro": "Hyper Realistic Ragdoll unlocks new weapons as you play. If you find an entry named Assault Rifle, check what it says before deciding what to do next.",
+        "id": "look-for-the-exact-item-name-and-unlock-prompt",
+        "heading": "Look for the Exact Item Name and Unlock Prompt",
+        "intro": "On Roblox, check that the Hyper Realistic Ragdoll listing credits Emo Playworks before you join. Once in the experience, use the label on the weapon entry to identify the item rather than relying on its appearance.",
         "paragraphs": [
-          "Hyper Realistic Ragdoll unlocks new weapons as you play. If you find an entry named Assault Rifle, check what it says before deciding what to do next."
+          "On Roblox, check that the Hyper Realistic Ragdoll listing credits Emo Playworks before you join. Once in the experience, use the label on the weapon entry to identify the item rather than relying on its appearance."
         ],
         "steps": [
           {
-            "heading": "The entry shows a requirement",
-            "description": "Follow the wording on the item. If it names an activity, do that activity. If it shows a progress count, note the starting value so you can tell whether your play moved it. Then return to the same entry and check whether the count changed or the item became selectable."
+            "heading": "Matching entry with a requirement",
+            "description": "Follow the condition only if the game explicitly ties it to the assault rifle. Once you meet it, return to the entry and check whether you can equip the item."
           },
           {
-            "heading": "The entry says it’s locked but gives no details",
-            "description": "The lock tells you the item isn’t selectable, not what unlocks it. Keep playing and check the entry again later. If it still shows only a lock, don’t assume that more time in the same activity will unlock it. If a requirement appears, use that wording to choose your next step."
+            "heading": "Matching entry without a requirement",
+            "description": "Try selecting it. If you can see the entry but can't equip the item, don't assume that more playtime will unlock it."
           },
           {
-            "heading": "The entry is already selectable",
-            "description": "Skip the unlock steps. You don’t need to work through a requirement for an item you can already choose in your current session."
+            "heading": "No matching entry",
+            "description": "That tells you what you can see in your current session, not whether the rifle was removed or is unavailable to everyone."
           }
         ],
         "bullets": [
-          "The entry shows a requirement: Follow the wording on the item. If it names an activity, do that activity. If it shows a progress count, note the starting value so you can tell whether your play moved it. Then return to the same entry and check whether the count changed or the item became selectable.",
-          "The entry says it’s locked but gives no details: The lock tells you the item isn’t selectable, not what unlocks it. Keep playing and check the entry again later. If it still shows only a lock, don’t assume that more time in the same activity will unlock it. If a requirement appears, use that wording to choose your next step.",
-          "The entry is already selectable: Skip the unlock steps. You don’t need to work through a requirement for an item you can already choose in your current session."
+          "Matching entry with a requirement: Follow the condition only if the game explicitly ties it to the assault rifle. Once you meet it, return to the entry and check whether you can equip the item.",
+          "Matching entry without a requirement: Try selecting it. If you can see the entry but can't equip the item, don't assume that more playtime will unlock it.",
+          "No matching entry: That tells you what you can see in your current session, not whether the rifle was removed or is unavailable to everyone."
         ]
       },
       {
-        "id": "follow-the-prompts-for-selecting-and-using-the-item",
-        "heading": "Follow the Prompts for Selecting and Using the Item",
-        "intro": "Start with the exact item entry in a selectable state. Select it using the option shown in your session, then check for a visible change that confirms it is equipped. Do not assume that choosing the item also uses it: look for a separate on-screen prompt while it remains selected, and follow that prompt for the next action.",
+        "id": "what-a-dummy-s-reaction-can-tell-you",
+        "heading": "What a Dummy's Reaction Can Tell You",
+        "intro": "In Hyper Realistic Ragdoll, a dummy's body parts react independently to in-game impacts. A dummy might limp after a leg impact, for example. That change in how it walks is part of the sandbox's ragdoll physics, not an effect unique to the assault rifle.",
         "paragraphs": [
-          "If you move between keyboard and touch controls, read the prompts again on the device you are using. The available listing does not give an assault-rifle-specific key, button, firing mode, or ammunition detail, so use the current in-game instructions instead of relying on mappings from another device or a different weapon. For broader input help, see the Controls Guide."
-        ]
-      },
-      {
-        "id": "dummy-movement-shows-the-effect-of-an-in-game-impact",
-        "heading": "Dummy Movement Shows the Effect of an In-Game Impact",
-        "intro": "Once the item is available in your session, you can compare how a dummy moves before and after one in-game action. The sandbox describes each body part as reacting independently, so observe the same dummy in both moments and note which movement changes rather than treating every impact as the same result.",
-        "paragraphs": [
-          "The listed examples connect different body parts with distinct reactions: a shot leg makes a dummy limp, a broken leg makes it crawl, a broken arm hangs limp, and a head hit makes it faint. Dummies may also stumble, fight back, or get up, so watch the movement that follows the action instead of assuming one animation will always appear. These examples describe the sandbox’s broader impact behavior; they do not establish a special assault-rifle effect or guarantee a particular result from that item.",
-          "For a simple comparison, choose one dummy, observe its movement, use the selectable item once, and check what changed. If the result is unclear, use Body Scan to view broken bones and compare that information with the movement you observed. The Body Scan Guide covers that feature and injury effects in more detail."
+          "If the rifle is available in your session, watch how the dummy moves before and after an impact. You can describe what changed, such as whether it started limping, but the animation alone doesn't show how much damage the rifle dealt or what firing mode it uses. A more dramatic reaction also doesn't prove that the rifle is stronger than another weapon.",
+          "See the Body Scan guide for how to use the in-game X-ray to check for broken bones."
         ]
       }
     ],
     "faq": [
       {
-        "question": "Can I use the advertised weapon list to work out what unlocks first?",
-        "answer": "The Roblox description names weapons such as the Sniper and Minigun as examples and says more weapons unlock through play. It gives no order for those unlocks. A weapon appearing earlier in the description gives you no reason to pursue it first."
+        "question": "Do the Sniper and Minigun show where the assault rifle fits in progression?",
+        "answer": "The Sniper and Minigun are examples of weapons named in the Roblox description, not milestones in a published unlock order. Their appearance in the same list does not make either one a prerequisite or tell you what you would unlock next."
       },
       {
-        "question": "Can I tell whether a Roblox dummy’s leg is broken from how it moves?",
-        "answer": "The game description associates limping with a shot leg and crawling with a broken leg. If you want to check whether there is a visible fracture, inspect the affected leg with Body Scan. Its X-ray view lets you look at the bone directly."
+        "question": "Can Body Scan tell me which weapon caused a dummy injury?",
+        "answer": "Body Scan gives you an X-ray view of broken bones. Use it to see where a break is rather than judging from movement alone. To connect that result to a particular item, keep track of what you used before opening the scan."
       },
       {
-        "question": "Can a dummy get back up on its own after an in-game hit?",
-        "answer": "Dummies can get back up on their own during play. If you’re watching what happens after one hit, give the dummy a moment to see whether it stands again. The Medkit and Defibrillator are separate tools that can bring a dummy back."
+        "question": "Does a dummy getting back up mean the item did not work?",
+        "answer": "Dummies can get back up on their own, so a dummy standing again does not mean the earlier interaction had no effect. Watch what changes immediately after the interaction and what happens later. Those observations tell you different things about the dummy's response."
       }
     ],
     "screenshots": [],
@@ -1184,7 +1133,7 @@
       "boiling-water",
       "controls"
     ],
-    "lastReviewed": "2026-11-19"
+    "lastReviewed": "2026-11-20"
   },
   {
     "enabled": true,
@@ -1198,38 +1147,15 @@
     "hero": {
       "eyebrow": "Guide",
       "heading": "Hyper Realistic Ragdoll Bat Guide",
-      "lead": "To check whether you can get the Hyper Realistic Ragdoll bat, open the Roblox experience by Emo Playworks and look for an equipment entry labeled Bat. The Roblox listing says new weapons unlock through play and leaves the Bat’s unlock requirement and controls open. If you find the item, start with the requirement or action prompt on its own entry. A visible entry, permission to equip it, and a successful action are three separate things you can check in the game."
+      "lead": "The official Roblox description leaves the Hyper Realistic Ragdoll bat’s availability, unlock requirement, and controls open. It says new weapons unlock through play and names several examples. If you can join the Emo Playworks experience, look for an entry labeled Bat and read any prompt attached to that entry. If it’s selectable, follow the instructions shown on your device and check whether the bat becomes your active item. The table and steps below explain how to read each possible item state and what you can observe in a test on an in-game dummy."
     },
     "sections": [
       {
-        "id": "find-the-bat-by-its-in-game-name",
-        "heading": "Find the Bat by Its In-Game Name",
-        "intro": "Check the creator credit before opening a search result on Roblox. The original Hyper Realistic Ragdoll is by Emo Playworks. A similar title or thumbnail can lead to a different experience with different equipment, so use the creator name to make sure you’re checking the right game.",
+        "id": "the-roblox-weapon-list-leaves-the-bat-s-status-open",
+        "heading": "The Roblox Weapon List Leaves the Bat’s Status Open",
+        "intro": "The official Hyper Realistic Ragdoll listing names the Katana and Flamethrower among its weapon examples, but it doesn’t name a Bat. The list isn’t exhaustive, so leaving the bat out doesn’t rule it out. It also doesn’t establish whether a bat is available as an equippable weapon or appears only as an object in the sandbox.",
         "paragraphs": [
-          "Once you’re in the experience, read the name on the item itself. An equipment entry labeled Bat gives you a specific item to check. If you came from a clip or screenshot, look for a moment when the player selects the item or shows its name. A bat-shaped prop or a caption calling something a bat offers less information than a visible equipment label."
-        ]
-      },
-      {
-        "id": "check-the-bat-s-unlock-requirement",
-        "heading": "Check the Bat’s Unlock Requirement",
-        "intro": "Hyper Realistic Ragdoll unlocks new weapons as you play. For the Bat, your next step depends on what you see when you look for the item. Check whether you can select it and whether the entry gives you a condition to meet.",
-        "paragraphs": [
-          "Hyper Realistic Ragdoll unlocks new weapons as you play. For the Bat, your next step depends on what you see when you look for the item. Check whether you can select it and whether the entry gives you a condition to meet."
-        ],
-        "bullets": [
-          "If the Bat is selectable, select it and check whether the game shows it as equipped. Once you have that confirmation, move on to the action prompt.",
-          "If the Bat is locked and shows a condition, follow the wording on the entry. If it names a particular task or prerequisite, use that wording to decide what to do next.",
-          "If the Bat is locked and gives no condition, leave the requirement open. A lock by itself gives you no reason to chase a specific knockout total or spend currency.",
-          "If you see no Bat entry, continue with equipment you can select. The absence of an entry in the view you checked leaves its availability open."
-        ]
-      },
-      {
-        "id": "check-selection-equip-status-and-input",
-        "heading": "Check Selection, Equip Status, and Input",
-        "intro": "If you can select the Bat, check what changes after you do. If the selection opens item details, read any instruction there before returning to the play area. If you see a separate equip action, use it and look for a sign that the selection carried over, such as the Bat appearing in your character’s hands. A highlighted entry may only show which item you’re viewing.",
-        "paragraphs": [
-          "Use the action shown for the equipped item on your current device, if one appears. If you’re following a video, check which device the player is using before copying the input. A button in a recording of a touch interface gives you little guidance about which key to press on a keyboard. The [controls guide](/controls) covers general game inputs.",
-          "If nothing happens when you try the action, go back to the last step you completed. Check equip status first if you only saw the item’s details. If you can see the Bat equipped, focus on the action prompt and try one input at a time so you can tell which one the game responds to."
+          "The listing says that playing unlocks additional weapons, but that’s a general progression rule, not a bat unlock instruction. Don’t assume the bat is a reward for playing longer just because other weapons unlock that way."
         ],
         "table": {
           "caption": "Hyper Realistic Ragdoll Bat at a Glance",
@@ -1239,58 +1165,51 @@
           ],
           "rows": [
             [
-              "Find the Bat by Its In-Game Name",
-              "Check the creator credit before opening a search result on Roblox."
+              "The Roblox Weapon List Leaves the Bat’s Status Open",
+              "The official Hyper Realistic Ragdoll listing names the Katana and Flamethrower among its weapon examples, but it doesn’t name a Bat."
             ],
             [
-              "Check the Bat’s Unlock Requirement",
-              "Hyper Realistic Ragdoll unlocks new weapons as you play."
+              "Look for the Exact Bat Label in the Emo Playworks Experience",
+              "Open the original Hyper Realistic Ragdoll listing on Roblox and check that Emo Playworks is listed as the creator."
             ],
             [
-              "Check Selection, Equip Status, and Input",
-              "If you can select the Bat, check what changes after you do."
-            ],
-            [
-              "Observe One In-Game Action at a Time",
-              "If you can use an equipped item labeled Bat, try one action on one Roblox dummy."
-            ],
-            [
-              "Use Body Scan to Check for a Broken Bone",
-              "If you want to know whether a dummy’s movement coincides with a broken bone, use Body Scan."
+              "Check the Bat’s In-Game Effect After Equipping It",
+              "Once the game shows the Bat as your active item, watch an in-game dummy for a moment so you know how it’s moving before you use the item."
             ]
           ]
         }
       },
       {
-        "id": "observe-one-in-game-action-at-a-time",
-        "heading": "Observe One In-Game Action at a Time",
-        "intro": "If you can use an equipped item labeled Bat, try one action on one Roblox dummy. Choose a dummy you can see clearly and watch its movement for a moment before using the item. Wait for any other tool or environmental effect to finish, use the Bat once, and pause long enough to see how the dummy moves afterward.",
+        "id": "look-for-the-exact-bat-label-in-the-emo-playworks-experience",
+        "heading": "Look for the Exact Bat Label in the Emo Playworks Experience",
+        "intro": "Open the original Hyper Realistic Ragdoll listing on Roblox and check that Emo Playworks is listed as the creator. If you arrived through a gameplay clip or a search result, match both the title and the creator before joining.",
         "paragraphs": [
-          "Body parts in Hyper Realistic Ragdoll can react independently. Watch the dummy’s movement through the whole reaction, including what it does when it gets back up. If it stumbles and then stands, you’ve seen a stumble followed by recovery. If a second effect interrupts the interaction, start a fresh attempt when you can watch the dummy without interference.",
-          "Keep your conclusion tied to what you saw in that attempt. The distance a dummy falls is a movement observation. A damage value, a reliable knockout effect, or a unique Bat ability would each require different information."
+          "Once inside, read the item names wherever the experience displays equipment. If you see a bat-shaped icon or model, check whether the game displays a name for it. If the name is different, use the name shown in the game. For a clip that shows only the model, look for a moment when the player brings up the item's name. If it never appears, leave the item's identity open.",
+          "Your check is complete when you find an entry named Bat or finish reviewing the equipment you can see. If the label is absent, all you know is that Bat did not appear among the entries visible to you during that session."
         ]
       },
       {
-        "id": "use-body-scan-to-check-for-a-broken-bone",
-        "heading": "Use Body Scan to Check for a Broken Bone",
-        "intro": "If you want to know whether a dummy’s movement coincides with a broken bone, use Body Scan. Its X-ray view shows broken bones, giving you a way to check the injury after you’ve watched the movement. Start with a fresh dummy or check its condition before using the item if you want a baseline. After the action, scan the same dummy before anything else happens to it.",
+        "id": "check-the-bat-s-in-game-effect-after-equipping-it",
+        "heading": "Check the Bat’s In-Game Effect After Equipping It",
+        "intro": "Once the game shows the Bat as your active item, watch an in-game dummy for a moment so you know how it’s moving before you use the item. If a use prompt appears, follow it once and watch the dummy before interacting again. If the game shows no prompt, the input for the bat is unclear.",
         "paragraphs": [
-          "Keep the movement and scan observations separate. For example, you might see the dummy stumble and then look at the scan to see whether it shows a break. If the dummy already had a broken bone before the attempt, carry that detail forward when you read the second scan. This is especially useful when the dummy has already been involved in other interactions. The scan can tell you about the dummy’s condition, while the item entry is where you’d look for any unlock instruction."
+          "Dummy body parts can react independently in Hyper Realistic Ragdoll. Watch for a change in how an individual arm or leg moves, as well as any change in the dummy’s overall posture or movement. If the dummy was already moving, compare what it does immediately after the interaction with what it was doing just before.",
+          "If you only see your avatar move, check the dummy separately for a reaction. If its movement looks the same, treat that as no visible change on that attempt. If you do see a change, describe the movement you observed and leave the exact injury or damage amount open."
         ]
       }
     ],
     "faq": [
       {
-        "question": "What if a friend can equip the Bat and I can’t?",
-        "answer": "Ask your friend to open the item entry in the same Roblox experience and compare what appears on both screens. If your screen gives you a prerequisite, follow its wording. A friend’s equipped Bat shows what they can use and may give you an item name to search for."
+        "question": "Does the Roblox description say whether the bat was removed?",
+        "answer": "The description gives examples of weapons and says players can unlock more through play. It does not give an item history for the bat. A removal claim would need an announcement or update note that names the bat and says what changed."
       },
       {
-        "question": "What can I use while I look for the Bat?",
-        "answer": "Look for the Katana if you want to try another handheld weapon. It’s one of the weapons the Roblox listing names, and you can check whether it’s selectable on your account. The [weapons guide](/weapons) covers the broader equipment lineup."
+        "question": "Can a dummy get back up after a bat test?",
+        "answer": "Dummies can get back up on their own. If one falls during an in-game test, pause and watch what it does before taking another action. The Medkit and Defibrillator can also bring dummies back, so leave those tools unused if you want to observe recovery on its own."
       },
       {
-        "question": "Where is the official Roblox page for the game?",
-        "answer": "Open the [Hyper Realistic Ragdoll experience on Roblox](https://www.roblox.com/games/101277003916102) and look for Emo Playworks in the creator credit. If you want an overview of the sandbox before joining, start with the [Hyper Realistic Ragdoll homepage](/)."
+        "question": "Can I observe dummy movement while I’m still looking for the bat?",
+        "answer": "You can grab, swing, and throw dummies without using a weapon. If you want to see how a dummy moves after one of those actions, watch it from the moment you let go until it settles. That gives you a separate interaction to try while you check the equipment available to you."
       }
     ],
     "screenshots": [],
@@ -1302,7 +1221,7 @@
       "banned",
       "maps"
     ],
-    "lastReviewed": "2026-11-19"
+    "lastReviewed": "2026-11-20"
   },
   {
     "enabled": true,
@@ -1316,15 +1235,15 @@
     "hero": {
       "eyebrow": "Guide",
       "heading": "Hyper Realistic Ragdoll Boiling Water Guide",
-      "lead": "If you’re looking for Hyper Realistic Ragdoll boiling water, the Roblox description for Emo Playworks’ game does not list an item by that name or say how to unlock or use it. That omission does not tell you whether it appears in a session. Look for the exact name in-game before working toward an unlock. If you find it, read any requirement or use prompt attached to that entry rather than assuming another tool works the same way. The table and steps below show what to check when the entry is missing, locked, or selectable."
+      "lead": "Looking for Boiling Water in Hyper Realistic Ragdoll? The Roblox description does not name it or give an unlock requirement. Start in the Emo Playworks experience and look for an entry labeled “Boiling Water.” If you find one, check what the entry says before spending anything or working toward a milestone. An item name, an unlock condition, and a use prompt answer three different questions."
     },
     "sections": [
       {
-        "id": "the-roblox-description-does-not-name-boiling-water",
-        "heading": "The Roblox Description Does Not Name Boiling Water",
-        "intro": "On Roblox, look for Hyper Realistic Ragdoll by Emo Playworks. If you came from a gameplay clip, check the creator name on the Roblox listing before using that clip to identify something in the game. A clip title alone doesn't tell you which experience was filmed.",
+        "id": "what-the-roblox-listing-says-about-equipment",
+        "heading": "What the Roblox Listing Says About Equipment",
+        "intro": "The Weapons and Tools section of the Hyper Realistic Ragdoll listing highlights the Katana, Sniper, Minigun, Rocket Launcher, Flamethrower, and Void Gun. These are examples, not a complete equipment list. Boiling Water's absence does not mean it was removed, and the presence of the Flamethrower does not make it an alternate name or a substitute with the same effects.",
         "paragraphs": [
-          "Pay attention to where the words “boiling water” appear. Text shown on an in-game label is the name the game displays; words used only in a caption or voiceover may just describe what the player sees. The Roblox description names examples rather than giving a complete inventory, so its omission doesn't settle whether Boiling Water appears in the game or whether the phrase refers to an item, a feature, or a visual effect."
+          "The listing also says that new weapons unlock as you play. That describes progression in general, but it does not establish that Boiling Water is a weapon or give you a milestone to pursue for it. For equipment the listing does name, start with the [weapons and tools guide](/weapons)."
         ],
         "table": {
           "caption": "Hyper Realistic Ragdoll Boiling Water at a Glance",
@@ -1334,73 +1253,75 @@
           ],
           "rows": [
             [
-              "The Roblox Description Does Not Name Boiling Water",
-              "On Roblox, look for Hyper Realistic Ragdoll by Emo Playworks."
+              "What the Roblox Listing Says About Equipment",
+              "The Weapons and Tools section of the Hyper Realistic Ragdoll listing highlights the Katana, Sniper, Minigun, Rocket Launcher, Flamethrower, and Void…"
             ],
             [
-              "Use the Boiling Water Entry’s Own Unlock Requirement",
-              "Hyper Realistic Ragdoll unlocks new weapons as you play, but that does not establish an unlock path for Boiling Water."
+              "Find the Item by Its Label",
+              "Open the Roblox experience by Emo Playworks before following directions from a screenshot or video."
             ],
             [
-              "Watch What Changes After One In-Game Action",
-              "Dummies react to impacts, and individual body parts can respond independently."
+              "Read the Unlock Prompt Before Acting",
+              "If you find a matching entry, select it only as far as you need to read its details."
+            ],
+            [
+              "Use the Prompt Shown for the Active Item",
+              "If you equip Boiling Water and see an item-specific use prompt, follow the displayed input once."
+            ],
+            [
+              "Separate the Item's Effect From Other Sandbox Activity",
+              "A dummy's reaction is easier to interpret in a quiet scene."
             ]
           ]
         }
       },
       {
-        "id": "use-the-boiling-water-entry-s-own-unlock-requirement",
-        "heading": "Use the Boiling Water Entry’s Own Unlock Requirement",
-        "intro": "Hyper Realistic Ragdoll unlocks new weapons as you play, but that does not establish an unlock path for Boiling Water. Use what the entry shows to decide whether to work toward an unlock at all.",
+        "id": "find-the-item-by-its-label",
+        "heading": "Find the Item by Its Label",
+        "intro": "Open the Roblox experience by Emo Playworks before following directions from a screenshot or video. Once you join, look for the words “Boiling Water” on a selectable item. Water or a container in the scene is not enough to identify it. If an instruction points to an object in the world, compare the name or interaction text shown by the game with the name in the instruction.",
         "paragraphs": [
-          "Hyper Realistic Ragdoll unlocks new weapons as you play, but that does not establish an unlock path for Boiling Water. Use what the entry shows to decide whether to work toward an unlock at all."
-        ],
-        "steps": [
-          {
-            "heading": "No matching entry",
-            "description": "Don’t treat an absent listing as a locked item. There’s no displayed requirement to work toward."
-          },
-          {
-            "heading": "Locked with a requirement",
-            "description": "Follow the condition shown on that entry. After meeting it, check whether the entry becomes selectable."
-          },
-          {
-            "heading": "Locked without a requirement",
-            "description": "A lock shows that you can’t select it, not what opens it. Don’t spend time pursuing another weapon’s unlock."
-          },
-          {
-            "heading": "Selectable entry",
-            "description": "Select it and check for a use prompt rather than looking for a separate unlock step."
-          }
-        ],
-        "bullets": [
-          "No matching entry: Don’t treat an absent listing as a locked item. There’s no displayed requirement to work toward.",
-          "Locked with a requirement: Follow the condition shown on that entry. After meeting it, check whether the entry becomes selectable.",
-          "Locked without a requirement: A lock shows that you can’t select it, not what opens it. Don’t spend time pursuing another weapon’s unlock.",
-          "Selectable entry: Select it and check for a use prompt rather than looking for a separate unlock step."
+          "Pay attention to what the label is attached to. In a sandbox that advertises both equipment and environmental machines, an interaction at a fixed object and an entry you can equip are not necessarily the same thing. If you see the name only in the scene, read the interaction text there rather than assuming that you need to find or unlock a portable version."
         ]
       },
       {
-        "id": "watch-what-changes-after-one-in-game-action",
-        "heading": "Watch What Changes After One In-Game Action",
-        "intro": "Dummies react to impacts, and individual body parts can respond independently. If you find a selectable Boiling Water entry, choose one dummy and note its visible state before using the item once. Keep the test isolated: do not add punches, weapons, throws, or environmental effects between the before-and-after observations. Then record only what visibly changed, such as the dummy’s movement or posture. The game description gives examples of different reactions to leg, arm, and head impacts, but it does not document a Boiling Water effect. One result in one session is an observation, not proof that the item always produces the same reaction. It also does not establish a damage value. Repeat the same single-action check only if you want to see whether the visible result happens again under similar conditions.",
+        "id": "read-the-unlock-prompt-before-acting",
+        "heading": "Read the Unlock Prompt Before Acting",
+        "intro": "If you find a matching entry, select it only as far as you need to read its details. Make sure any requirement you see belongs to that entry, not to a neighboring item or to whatever you were looking at previously. A lock icon can signal that an entry is unavailable to you without telling you what changes that status.",
         "paragraphs": [
-          "Dummies react to impacts, and individual body parts can respond independently. If you find a selectable Boiling Water entry, choose one dummy and note its visible state before using the item once. Keep the test isolated: do not add punches, weapons, throws, or environmental effects between the before-and-after observations. Then record only what visibly changed, such as the dummy’s movement or posture. The game description gives examples of different reactions to leg, arm, and head impacts, but it does not document a Boiling Water effect. One result in one session is an observation, not proof that the item always produces the same reaction. It also does not establish a damage value. Repeat the same single-action check only if you want to see whether the visible result happens again under similar conditions."
+          "If you find a matching entry, select it only as far as you need to read its details. Make sure any requirement you see belongs to that entry, not to a neighboring item or to whatever you were looking at previously. A lock icon can signal that an entry is unavailable to you without telling you what changes that status."
+        ],
+        "bullets": [
+          "If the entry names a requirement, follow the instruction attached to Boiling Water, then return to that entry and see whether its status changed.",
+          "If an entry shows a cost, check what the confirmation says you would receive before accepting it. A cost displayed elsewhere does not tell you the price of this item.",
+          "If the entry has an Equip action, use it and check that Boiling Water is the active selection before trying an input. Highlighting an entry while browsing is not the same as equipping it.",
+          "If there is no matching entry, stop before spending or grinding for it. A search that turns up no match gives you no item-specific requirement to follow."
+        ]
+      },
+      {
+        "id": "use-the-prompt-shown-for-the-active-item",
+        "heading": "Use the Prompt Shown for the Active Item",
+        "intro": "If you equip Boiling Water and see an item-specific use prompt, follow the displayed input once. If you are checking a labeled object in the scene instead, follow the prompt attached to that object. The [controls guide](/controls) can help with general inputs, but use the game prompt to determine which action belongs to the item you selected.",
+        "paragraphs": [
+          "Before you use the prompt, note whether the in-game dummy is standing, moving, or already down. Leave other tools alone while you watch. Look first for something that indicates the input was registered, such as an animation or on-screen message, and then for a change in the scene. A visible activation and a visible effect are different observations: you can see one without seeing the other."
+        ]
+      },
+      {
+        "id": "separate-the-item-s-effect-from-other-sandbox-activity",
+        "heading": "Separate the Item's Effect From Other Sandbox Activity",
+        "intro": "A dummy's reaction is easier to interpret in a quiet scene. Hyper Realistic Ragdoll includes breakable structures and events such as Tornado and Meteor Rain. If one of those events starts during your check, or another player interacts with the same dummy, don't treat everything that happened afterward as an effect of the item. Wait until you can observe the interaction without the other activity.",
+        "paragraphs": [
+          "Timing matters for recovery, too. Dummies can get back up, and the Medkit and Defibrillator can bring them back. If a dummy rises after you try the item, separate that later recovery from whatever happened immediately after the prompt. If nothing clearly changed at the time, leave the result inconclusive rather than assigning the item a damage value or a special effect."
         ]
       }
     ],
     "faq": [
       {
-        "question": "Is Tsunami another name for Boiling Water?",
-        "answer": "Tsunami is listed as a disaster, alongside Tornado and Meteor Rain. The Roblox description does not connect it to Boiling Water. If a clip shows a wave or a large water effect, look for the name shown in the game before treating the clip as a demonstration of a particular tool."
+        "question": "Which Roblox experience should I open to check for Boiling Water?",
+        "answer": "Use the [Hyper Realistic Ragdoll listing on Roblox](https://www.roblox.com/games/101277003916102) and check that the creator is Emo Playworks. That takes you to the intended experience before you compare anything you see in-game with a guide or clip."
       },
       {
-        "question": "Can Body Scan tell me which item affected a dummy?",
-        "answer": "Body Scan shows broken bones in an X-ray view. That can help you inspect the dummy after an interaction, but a visible break does not identify the item responsible. If you want to connect the result to a particular item, keep track of what you selected before the interaction."
-      },
-      {
-        "question": "Does a dummy getting back up mean the item did nothing?",
-        "answer": "Getting back up is one of a dummy’s normal behaviors, so recovery alone does not tell you whether an action had an effect. Watch what happened immediately afterward as well as what happened later. If someone used a Medkit or Defibrillator, keep that separate from a dummy getting up on its own."
+        "question": "Can Body Scan tell me what Boiling Water does?",
+        "answer": "Body Scan shows broken bones in an X-ray view. It can help you see whether a fracture is present, but a fracture you see afterward might already have been there. The scan alone does not identify which action caused it."
       }
     ],
     "screenshots": [],
@@ -1412,6 +1333,6 @@
       "beginner-guide",
       "assault-rifle"
     ],
-    "lastReviewed": "2026-11-19"
+    "lastReviewed": "2026-11-20"
   }
 ]
